@@ -97,14 +97,6 @@ Will will post our office hours schedule during the first week of classes.
 
 ## Course Learning Goals
 
-{:.blockquote-no-margin.callout}
-> ### Course Goals
-> 1. [Recognizing the impact of one's own assumptions, biases, and experiences](#goal-1)
-> 2. [Identifying (and questioning) dominant/normative ways of thinking about computing and technology](#goal-2)
-> 3. [Understanding some of the underlying concepts that power AI and the internet](#goal-3)
-> 4. [Developing a framework for thinking about the relationship between technology and society](#goal-4)
-> 5. [Considering how to participate in a world that is heavily mediated by computing](#goal-5)
-
 {:#goal-1}
 ### 1. Recognizing the impact of one's own assumptions, biases, and experiences
 Students will appreciate and understand how their own assumptions, experiences, worldviews, social location, and identity categories can and do impact the design, implementation, and use of computing technologies. Our hope is that students across a range of majors will become more conscious, sensitive, ethically aware, and humble thinkers/doers in the world. 

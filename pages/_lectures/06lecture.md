@@ -11,28 +11,16 @@ details:
     - How do computer- and data-mediated systems shape how classification and categorization impact our world?
     - How do proxy categories circumvent legislation designed to protect people belonging to vulnerable social categories?
 readings:
-    - title: Chapter 1. Nature & Space
-      source: |
-        Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed 
+    - title: "Sorting things out: Classification and its consequences. Introduction."
+      author: Bowker & Star
+      url: https://canvas.northwestern.edu/files/10274369/download?download_frd=1
       date: 1998
-      author: Scott, James
-    
-    - url: 
-      title: |
-        Towards critical data studies: Charting and unpacking data assemblages and their work
-      source: Geoweb and Big Data, 1–19
-      url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474112 
-      authors: Kitchin, R. & Lauriault, T. P.
-    - url: https://theappeal.org/chicago-gang-database-lawsuit/
-      title: Chicago's gang database can have 'devastating' consequences, but there's no way to be removed from it
-      author: Weill-Greenberg, Elizabeth
-      source: The Appeal
-      date: Dec 18, 2019
-    - title: Targeted
-      url: https://vimeo.com/showcase/7260847/video/429377282
-      authors: Lewis, David; Rodriguez, Jessica; Tortuga, Izadorius
-      date: June, 2020
-      source: Young People's Race, Power, and Technology project (YPRPT)
+      source: MIT Press
+    - title: Nosedive, Season 3, Episode 1
+      author: Black Mirror
+      date: Oct. 21, 2016
+      source: Netflix
+      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
 ---
 
 What’s new about categorization and classification? How do new data and computing technologies shape / disrupt / reify / reproduce existing categorization / classification systems?

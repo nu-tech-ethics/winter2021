@@ -8,15 +8,22 @@ due_date: 2021-01-14
 details:
   - What does it mean to apply an ethical lens?
   - How are various ethical frameworks useful in analyzing how a technology can / should (not) be used in the world?
-# readings:
-#   - title: Intro to 5 Ethical Lenses
-#     url: https://www.scu.edu/ethics-in-technology-practice/ethical-lenses/
-#     source: The Markkula Center for Applied Ethics
-#   - title: ACM Code of Ethics
-#     url: https://www.acm.org/code-of-ethics
+readings:
+  - title: The Moral Instinct
+    url: https://canvas.northwestern.edu/files/10274342/download?download_frd=1
+    author: Pinker
+    date: 2008
+  - title: The Singer Solution to World Poverty
+    url: https://canvas.northwestern.edu/files/10274347/download?download_frd=1
+    author: Singer, P.
+    date: 1999
+    source: New York Times Magazine
+  - title: The Moral Roots of Liberals and Conservatives
+    url: https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives
+    source: Ted Talk
+    author: Haidt
+    date: 2008
 
-#   - title: IEEE Code of Ethics
-#     url: https://www.ieee.org/about/corporate/governance/p7-8.html
 ---
 
 ### Guiding Questions

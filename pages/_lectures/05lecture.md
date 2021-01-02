@@ -9,25 +9,29 @@ details:
 draft: 1
 due_date: 2021-01-26
 readings:
-    - title: Chapter 3. Coded Exposure
+    - title: Social Stratification
+      author: Massey, Douglas
+    - title: Chapter 1. Engineered Inequity
       author: Benjamin, Ruha
       source: |
         Race After Technology: Abolitionist Tools for the New Jim Code
-      date: 2019
-    - title: "Ch 1. Notes on surveillance studies: Through the door of no return"
-      author: Browne, Simone
-      date: 2015
-      source: "Dark matters: On the surveillance of blackness"
-    - title: Racial Recognition
-      url: https://vimeo.com/showcase/7260847/video/429377282
-      authors: Komiyama-Kasai, Yuzuka; Voelkel, Gregory
-      date: June, 2020
-      source: Young People's Race, Power, and Technology project (YPRPT)
-    - title: Melting ICE
-      url: https://vimeo.com/showcase/7260847/video/429377282
-      authors: Morrow, Jazminé; Chandra, Eliana
-      date: June, 2020
-      source: Young People's Race, Power, and Technology project (YPRPT)
+    - title: The Idea of America
+      url: https://canvas.northwestern.edu/files/10274358/download?download_frd=1
+      source: New York Times Magazine
+      date: Aug. 14, 2019
+      author: Hannah-Jones, Nikole
+    - title: Chapter 1. Nature & Space
+      source: |
+        Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed 
+      date: 1998
+      author: Scott, James
+      optional: 1
+    - title: Seeing like a Market
+      author: Fourcade, M. & Healy, K.
+      date: 2017
+      url: https://academic.oup.com/ser/article/15/1/9/2656165
+      source: Socio-Economic Review
+      optional: 1
 ---
 
 TBD

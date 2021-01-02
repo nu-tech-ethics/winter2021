@@ -4,7 +4,7 @@ title: Midterm Paper
 abbreviation: Midterm
 type: project
 due_date: 2021-02-19
-draft: 1
+draft: 0
 ---
 
 ## Analyze a computing application of your choice
