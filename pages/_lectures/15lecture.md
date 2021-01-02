@@ -1,12 +1,12 @@
 ---
 layout: lecture
 num: 15
-title: Search Engines & Their Challenges
+title: Search Engines
 details: 
    - Why are search engines so critical to the functioning of the internet? 
    - Name some of the challenges 
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-03-02
 readings:
    - url: https://research.google/pubs/pub334/

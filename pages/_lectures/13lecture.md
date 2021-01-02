@@ -1,11 +1,11 @@
 ---
 layout: lecture
 num: 13
-title: "Ethical and human rights-based frameworks for guiding AI"
+title: "AI: Part 2 (Guest Speaker)"
 details:
     - What does operationalizing these principles look like in practice?
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-02-23
 readings:
     - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482

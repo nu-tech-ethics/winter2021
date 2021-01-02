@@ -1,18 +1,15 @@
 ---
 layout: lecture
 num: 1
-title: Intro to the course
+title: Introduction
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-01-12
 readings:
   - title: "Course Syllabus"
     url: /winter2021/syllabus/
     internal: 1
     notes: "Please read through the syllabus"
-  - title: Ethics and Ethical Frameworks
-    url: https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/
-    source: The Markkula Center for Applied Ethics
 
 details:
   - Goals for the class

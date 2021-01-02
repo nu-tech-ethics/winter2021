@@ -1,12 +1,12 @@
 ---
 layout: lecture-two-column
 num: 5
-title: Technologies of surveillance
+title: Social Categories
 type: lecture
 details: 
     - What are some of the consequences of the widespread use of tracking and surveilance techologies?
     - What are some of the ways in which vulnerable groups are differentially impacted?
-draft: 0
+draft: 1
 due_date: 2021-01-26
 readings:
     - title: Chapter 3. Coded Exposure

@@ -2,9 +2,9 @@
 layout: lecture
 num: 17
 title: |
-    Platforms 2: Content Moderation
+    Platforms: Business Models
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-03-09
 details: 
     - What are some considerations that go into determining whether user-generated content is acceptable on a platform?

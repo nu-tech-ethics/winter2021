@@ -88,13 +88,29 @@ table.instructions {
         font-size: 1em;
     }
 }
-.book {
-    height: 350px;
-    // height: auto !important;
-    // width: 30%;
-    margin-right: 15px;
-    margin-bottom: 15px;
-    vertical-align: top;
+
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    
+    .book {
+        height: 350px;
+        width: 31%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 1000px) { 
+
+    .books {
+        .book {
+            height: auto !important;
+            margin-right: 15px;
+            margin-bottom: 15px;
+            width: 45%;
+        }
+    }
 }
 
 @media (max-width: 800px) { 
@@ -108,10 +124,13 @@ table.instructions {
         max-width: 100%;
         float: inherit;
     }
-    .book {
-        height: auto !important;
-        margin-right: 15px;
-        margin-bottom: 15px;
-        width: 45%;
+    .books {
+
+        .book {
+            height: auto !important;
+            margin-right: 15px;
+            margin-bottom: 15px;
+            width: 47%;
+        }
     }
 }

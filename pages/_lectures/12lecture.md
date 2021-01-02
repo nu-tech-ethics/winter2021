@@ -1,9 +1,9 @@
 ---
 layout: lecture
 num: 12 
-title: "AI: Sources of bias and vulnerability (Lab)"
+title: "AI: Part 1"
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-02-18
 details:
     - Is bias in AI different from other forms of bias? If so, how?

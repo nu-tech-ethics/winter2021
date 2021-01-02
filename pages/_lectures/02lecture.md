@@ -1,22 +1,22 @@
 ---
 layout: lecture
 num: 2
-title: Intro to five (western) ethical frameworks 
+title: Humans & Morality
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-01-14
 details:
   - What does it mean to apply an ethical lens?
   - How are various ethical frameworks useful in analyzing how a technology can / should (not) be used in the world?
-readings:
-  - title: Intro to 5 Ethical Lenses
-    url: https://www.scu.edu/ethics-in-technology-practice/ethical-lenses/
-    source: The Markkula Center for Applied Ethics
-  - title: ACM Code of Ethics
-    url: https://www.acm.org/code-of-ethics
+# readings:
+#   - title: Intro to 5 Ethical Lenses
+#     url: https://www.scu.edu/ethics-in-technology-practice/ethical-lenses/
+#     source: The Markkula Center for Applied Ethics
+#   - title: ACM Code of Ethics
+#     url: https://www.acm.org/code-of-ethics
 
-  - title: IEEE Code of Ethics
-    url: https://www.ieee.org/about/corporate/governance/p7-8.html
+#   - title: IEEE Code of Ethics
+#     url: https://www.ieee.org/about/corporate/governance/p7-8.html
 ---
 
 ### Guiding Questions

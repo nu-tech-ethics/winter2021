@@ -6,37 +6,53 @@ permalink: /syllabus/
 ---
 
 |--|--|
-| **Term** | Fall, 2020 |
-| **Course** | CS396/SESP351: Computing, Ethics, and Society |
+| **Term** | Winter, 2021 |
+| **Course** | CS396: Computing, Ethics, and Society |
 | **Prerequisites** | None |
-| **Instructors** | Sepehr Vakil & Sarah Van Wart |
-| **Graduate TA** | Natalie Melo |
-| **Lecture Time** | Tuesdays and Thursdays, 1:00 - 2:20pm |
-| **Lecture Location** | Online, ***Synchronous*** |
+| **Professor** | Sarah Van Wart |
+| **Peer Mentor** | Katherine Johns |
+| **Class Time** | Tuesdays and Thursdays, 2:00 - 3:20pm |
+| **Class Location** | Online, ***Synchronous*** |
+
+{:.callout}
+> ## Learning During COVID-19
+> The COVID-19 pandemic is still ongoing and will present new, unexpected challenges to our class and to our community at Northwestern. I want to acknowledge that things are difficult for many of us on multiple fronts. Some thoughts:
+1. Your health and well-being is always top priority. Please communicate with me if you have something going on so that we can figure out a path forward together.
+2. There are numerous resources at Northwestern that are in place to support stuednts with extenuating circumstances (e.g. CAPS, talking to your academic advisor, talking to the dean of students, etc.). I can help you navigate these paths if you need help.
+
 
 ## About the Course
 ### Why should we care about ethical questions with respect to technology?
-Computing Technologies shape our personal, social, and political lives in increasingly complex and consequential ways -- providing tremendous benefits (e.g. convenient access to information, connecting to one another across time and space) and harms (e.g. biased decision-making, mass surveillance, disinformation campaigns, and exclusion from critical material opportunities) that are important to examine and understand. At the same time, these technologies are born and shaped by the societies in which they are developed. Thus, grappling with the ethics of technologies (i.e considering the harms and benefits, how and why they were created in the first place, and how and to what ends they are used) is important not only for ultimately creating more moral technologies but a more moral society. 
+Computing technologies shape our personal, social, and political lives in increasingly complex and consequential ways – providing tremendous benefits (e.g. convenient access to information, connecting to one another across time and space) and harms (e.g. biased decision-making, mass surveillance, disinformation campaigns, and exclusion from critical material opportunities) that are important to examine and understand. 
 
-Thus, our approach to the ethics of computing technologies requires a multifaceted assessment of their harm and benefit to our individual, cultural, and political lives, and simultaneously a critical examination of the values, ideologies, and contexts through which computing technologies emerge. To accomplish this, we will engage in critical reading and synthesizing across a range of topics drawn from computer science and HCI, education and learning sciences, as well as ethics and philosophy, and conduct "under the hood" case studies of particular focal technologies through in-class labs and exercises. As a class we will strive towards the following specific goals:
+At the same time, these technologies are born and shaped by the societies in which they are developed. Thus, grappling with the ethics of technologies (i.e considering the harms and benefits, how and why they were created in the first place, and how and to what ends they are used) is important not only for ultimately creating more moral technologies but a more moral society. Thus, our approach to the ethics of computing technologies requires a multifaceted assessment of their harm and benefit to our individual, cultural, and political lives, and simultaneously a critical examination of the values, ideologies, and contexts through which computing technologies emerge. 
 
-### 1. Develop a conceptual framework for assessing the ethics of computational technologies, and apply framework to a range of contemporary contexts
-Particularly in light of the ongoing twin pandemics of COVID-19 and systemic racism, we will wrestle with topics such as police surveillance and other law enforcement technologies, contact tracing, social media platforms, and the massive shift to online and hybrid modes of education. 
+To accomplish this, we will engage in critical reading and synthesizing across a range of topics drawn from computer science and HCI, education and learning sciences, as well as ethics and philosophy. We will also engage in hands-on activities to help us consider how technical decisions (e.g. sampling, data collection practices, categorization and classification, prediction, system design, etc.) involve human judgements that can have both intended and unintended consequences. Specifically, students will:
 
-### 2. Take a historical perspective on current debates involving computing and society
-Technologies have always shifted how societies organize and regulate resources, people, and the environment. Given this, we can gain some perspective on our own dilemmas by examining (similar) technological controversies of previous eras:
-* How have technologies of the past — both material (e.g. the telescope, the printing press, the steam engine) and ideal (e.g. classification systems, laws, policies, institutions, economic systems) — worked together to usher in new ways of thinking and doing? How has this produced new winners and losers?
-* Have computing technologies introduced fundamentally new ethical challenges? Extended existing ones? Both?
+1. Examine the design choices and tradeoffs that various computing infrastructures make (and have made) in relation to important societal values (e.g. individual autonomy, free speech, equity, privacy, justice, security, access to opportunity, etc.).
+2. Consider some of the intended and unintended consequences of computing applications within our communities, institutions, and social systems (e.g. schooling, employment, policing, transportation, business, etc.). This involves paying attention to who wins and who loses, as well as how these technologies might amplify existing marginalities and privileges.
+3. Develop a variety of analytic lenses for examining computing technologies in terms of their social, ethical, and political consequences.
 
-### 3. Carefully explore AI/ML and the Internet as particularly significant and revelatory cases through which to explore fundamental ethical questions with respect to computing technologies.
-We will also examine the ethics, values, and principles of several “ubiquitous” computing applications, with a particular focus on applications of machine learning, AI, and the internet. We will do this through:
-* ***Hands-on labs*** — to learn about how specific computing technologies work (particularly those problematized in the readings). This includes an examination of what these technologies / computational methods are capable of, and some of their potential vulnerabilities.
-* ***Case studies*** — to examine how applications involving these technologies make particular choices and trade-offs that tend to distribute benefits and harms unevenly across different communities, institutions, and sectors of society.
+The course is open to all students. For CS majors and minors, the course aims to help students to consider and grapple with ethical dimensions of their work, in order to inform a more critical technical practice. For students pursuing non-computing disciplines, the course aims to provide a solid foundation for thinking about the possibilities, risks, and impacts of computer-mediated infrastructures on society.
 
+## Course Format
+The course format will consist of:
+1. Readings and in-class discussions of current and enduring socio-technical dilemmas, and how they relate to applications of AI, Big Data, and the Internet.
+2. Hands-on activities to help students to consider the potential impacts of different kinds of technical decisions (e.g. sampling, data collection practices, categorization and classification strategies, prediction, system design, etc.).
+3. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
-### 4. Consider the role of public policy and education in mediating (i.e facilitating, exacerbating, transforming) fundamental ethical questions with respect to the design, use, and proliferation of emerging technologies 
-Finally, we will examine how social, economic, and political priorities have shaped the development and direction of computing applications; and the role of policy, education, design choices, and other levers in influencing the ethics of emerging technologies. To do this, we will study and discuss existing trends, recommendations, and solutions offered by a variety of thinkers; and what these ideas might look like in practice.
-
+## Course Readings
+We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entirety, as well as excerpts from the books listed below:
+<section class="books">
+    <img class="book" src="../assets/images/book_race_after_technology.jpeg" />
+    <img class="book" src="../assets/images/book_algos_of_oppression.jpg" />
+    <img class="book" src="../assets/images/book_custodians_of_the_internet.jpg" />
+    <img class="book" src="../assets/images/book_artificial_unintelligence.jpg" />
+    <img class="book" src="../assets/images/book_weapons_math_destruction.jpg" />
+    <img class="book" src="../assets/images/book_seeing_like_a_state.jpg" />
+    <img class="book" src="../assets/images/book_dark_matters.jpg" />
+    <img class="book" src="../assets/images/book_automating_inequality.jpg" /><img class="book" src="../assets/images/book_twitter_teargas.jpg" />
+</section>
 
 ## Coursework & Assignments
 The course format will consist of:
@@ -56,19 +72,6 @@ Additionally, we will begin selected classes with a short writing response based
 > **Attendance and Absence Policy**
 > 
 > You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your final grade will be lowered by one level for each absence. For example, if you had an “A” in the course, your grade will be lowered to an “A-.”
-
-### Books
-We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entirety, as well as excerpts from the books listed below:
-
-<img class="book" src="../assets/images/book_race_after_technology.jpeg" />
-<img class="book" src="../assets/images/book_algos_of_oppression.jpg" />
-<img class="book" src="../assets/images/book_custodians_of_the_internet.jpg" />
-<img class="book" src="../assets/images/book_artificial_unintelligence.jpg" />
-<img class="book" src="../assets/images/book_weapons_math_destruction.jpg" />
-<img class="book" src="../assets/images/book_seeing_like_a_state.jpg" />
-<img class="book" src="../assets/images/book_dark_matters.jpg" />
-<img class="book" src="../assets/images/book_automating_inequality.jpg" /><img class="book" src="../assets/images/book_twitter_teargas.jpg" />
-
 
 ### 2. Technology Labs (20%)
 The technology labs will provide a way to explore and better understand some of the underlying mechanisms of various computing technologies. In other words, in order to reason about the possibilities and risks that are inherent to certain classes of technologies, we believe it is useful to examine how these technologies work. These labs will not require any prior programming knowledge, but they will ask you to engage with technical ideas (basic statistics, how databases work, and so forth). When possible, we aim to use “real-world” datasets to ground these labs in real contexts and dilemmas.

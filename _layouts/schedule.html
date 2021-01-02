@@ -97,26 +97,27 @@ layout: default
                             {% assign prefix = lecture.title %}
                         {% endif %}
                         {% if lecture.draft == 1 and prefix %}
-                            <span class="badge">
-                                {{ prefix }}
-                            </span>
+                            {{ lecture.title }}
                         {% elsif prefix %} 
-                            <a class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
-                                {{ prefix }} <i class="fas fa-link"></i>
-                            </a>
+                            <a href="{{site.baseurl}}{{lecture.url}}">{{ lecture.title }}</a>
                         {% endif %}
-                        {% if lecture.type == 'tutorial' or lecture.type == 'lecture' %}
-                            <strong>{{ lecture.title }}</strong>
-                        {% endif %}
-                        {% if lecture.details.first %}
-                            <ul>
-                                <li>
-                                    {{ lecture.details | join: "</li><li>" }}
-                                </li>
-                            </ul>
-                        {% else %}
-                            <p>{{ lecture.details }}</p>
-                        {% endif %}
+
+                        {% comment %}
+                            {% assign page = lecture %}
+                            {% include page_readings.html %} 
+                            {% if lecture.type == 'tutorial' or lecture.type == 'lecture' %}
+                                <strong>{{ lecture.title }}</strong>
+                            {% endif %}
+                            {% if lecture.details.first %}
+                                <ul>
+                                    <li>
+                                        {{ lecture.details | join: "</li><li>" }}
+                                    </li>
+                                </ul>
+                            {% else %}
+                                <p>{{ lecture.details }}</p>
+                            {% endif %}
+                        {% endcomment %}
                     </td>
                 {% else %}
                     <!-- If no lecture -->
@@ -138,14 +139,12 @@ layout: default
                         {% endif %}
                         
                         {% if assignment.draft == 1 %}
-                            <strong>{{ assignment.abbreviation }}:</strong>
+                            {{ assignment.title }}
                         {% else %} 
-                            <a href="{{site.baseurl}}{{assignment.url}}" class="{{className}}">
-                                {{ assignment.abbreviation }}
-                                <i class="fa fa-link"></i>
+                            <a href="{{site.baseurl}}{{assignment.url}}">
+                                {{ assignment.title }}
                             </a>
                         {% endif %} 
-                        {{ assignment.title }}
                     {% endfor %}
                 </td>
             </tr>

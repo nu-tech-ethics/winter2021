@@ -1,9 +1,9 @@
 ---
 layout: lecture
 num: 18
-title: Individual and Collective Responses to Ethical Challenges
+title: Synthesis
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-03-11
 details: 
     - Given the diagnoses made by a variety of different scholars, activists, and your classmates, what are possible remedies suggested?

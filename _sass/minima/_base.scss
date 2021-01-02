@@ -47,6 +47,13 @@ section, article {
         line-height: 1.7em;
         margin-top: 5px;
     }
+    li {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        &:last-child {
+            margin-bottom: 0px;
+        }
+    }
 }
 
 a, a:hover, a:visited, a:active {
@@ -195,24 +202,24 @@ pre.highlight {
 blockquote {
     // border-left: solid 7px $lightpurple;
     background: $lightgrey;
-    padding: 10px;
-    // padding-left: 15px;
+    padding: 20px 20px 20px 30px;
     margin: 0px;
     margin-top: 30px;
     margin-bottom: 20px;
-    p {
-        margin: 0px;
-    }
+
     h3 {
         color: $nupurple !important;
 
         font-family:"Campton Book" !important;
     }
     &.callout {
+        h2 {
+            border-bottom: solid 1px $lightpurple !important;
+        }
         background: $lightlightpurple;
         border-left: solid 7px $lightpurple;
         p, li {
-            color: #4e2a84;
+            color: $purple;
             font: 18px "Campton Extra Light", Tahoma,sans-serif;
             line-height: 28px;
             margin-bottom: 16px;

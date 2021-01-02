@@ -1,53 +1,46 @@
 ---
 layout: lecture-two-column
-num: 11
-title: "Technologies of categorization & classification"
+num: 10
+title: "Big Data"
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-02-16
-details: 
-    - How do classification systems impact how we think about the world? People? Things?
-    - How does power manifest in classification systems?
-    - How are classifications systems reinforced through media and imagery?
 readings:
-    - title: "Sorting things out: Classification and its consequences. Introduction."
-    - title: Nosedive, Season 3, Episode 1. Black Mirror
-      url: https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)
-      source: Netflix
-    - title: The Messy Truth About Social Credit (China)
-      url: https://logicmag.io/china/the-messy-truth-about-social-credit/
-      date: May, 2019
-      author: Ahmed, Shazeda
-      source: Logic Magazine
-    - url: https://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html
-      title: My Life as an Undocumented Immigrant
-      date: June, 2011
-      author: Vargas, Jose Antonio
-      optional: 1
-    - title: The acquisition of a child by a learning disability
-      author: McDermott, Ray
-      source: |
-        Understanding Practice: Perspectives on Activity and Context
-      date: 1993
-      optional: 1
-    - title: The Immigration Syllabus
-      url: https://immigrationsyllabus.lib.umn.edu/about/
-      source: Faculty at the University of Minnesota
-      date: January, 2017
-      optional: 1
-      notes: Learn more about race, ethnicity, classification, and the state here. Some very thought provoking ideas, including the invention of the designation "illegal immigrant."
-
+    - title: "Provocations for big data: Provocations for a cultural, technological, and scholarly phenomenon"
+      url: https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
+      authors: boyd, danah and Crawford, Kate 
+      source: "Information, Communication & Society"
+      date: May, 2012
 ---
 
-* How media representation normalizes categories. 
-* How do networked computing infrastructures challenge / produce / reproduce winners and losers? 
-* What is new (velocity, size, scale, granularity, ubiquity, centralization, etc. of categories) and what has always been with us (fake news, stereotypes, etc.)
+Ideas to cover: 
+## Databases
+* Why are they useful? 
+* It used to be the case that...
+   * Databases were only to organize information (a way to store, retrieve, archive, version, document, info). 
+   * Ask questions of the data. Tax info, HR databases (hiring, etc.), recipients of public services, geodatabases of protected lands and habitats, genome databases, etc. Stores used them to track inventory.
 
-### Guiding Questions
-* What kind of work do representations do in both normalizing and resisting existing categorization and classification schemes?
+## Databases & Ideology
+There's a common trope of "from data -> information -> knowledge" but many scholars (including Benjamin) have critiqued this notion. A databases is theory of the world, given the things you need to / hope to do with empirical information that you’re collecting. As such, **people** decide which features are worth collecting based on the use cases. All data is constructed in a particular context with a particular goal in mind. And with those decisions come judgement calls, which are made by the creator:
+* How you sample
+* The features you collect
+* The conclusions you draw
 
-Philosophy of categorization, classification, and modeling. We’re doing it all of the time. Classification systems, ontologies: they all have a perspective and a point of view (Lakoff, Dewey, etc.).
-From classification to stratification (reifying classifications through imagery) [Nosedive] [Bowker & Starr] [Seeing like a State] [Seeing like a Market]
+## What’s new in an era of big data? 
+### Data Collection
+* Pervasiveness and ubiquity of da: size, scale, and types (personal) of data that are being collected
+* New opportunities for data collection
+    * Third party cookies, clicking and browsing history, reading your email, platform trackers: https://www.nytimes.com/2017/07/03/smarter-living/how-to-see-what-the-internet-knows-about-you.html 
+    * Sensors
+    * Video cameras everywhere
+    * Intercepting communication transmission; cellphone logs
+* **Speed:** Databases are getting built and processed in real-time
 
+### Replication and Aggregation
+* Databases are being copied, replicated, and remixed over the internet.
+* Disparate data sources being stitched together, bought and sold, reprocessed, etc.
 
-* OPEN STREET MAP (BROTHELS)
+### New Statistical and Computational Methods
+New computational methods on a range of new data sources have powered many new types of applications:
+    * Widespread use of statistics and data-driven algorithmic methods (ML) over user-generated data at an unprecedented size and a scale
+    * From mostly descriptive to leveraging correlations to derive features, classify entities, and make predictions about behavior: ML / Data Science

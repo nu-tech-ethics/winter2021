@@ -243,7 +243,18 @@ blockquote.quote {
 }
 
 .schedule, .tutorials {
-    ul { padding-left: 20px; }
+    table {
+        ul {
+            padding-top: 5px;
+        }
+        li {
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+    }
+    ul { 
+        padding-left: 20px; 
+    }
 }
 
 .assignment, .lecture, .details, .two-column article, .syllabus, .schedule {

@@ -2,9 +2,9 @@
 layout: lecture
 num: 16
 title: |
-    Platforms 1: The Platform Ecosystem
+    Platforms: Content Moderation
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-03-04
 details: 
     - Who are the stakeholders (social media platforms)?

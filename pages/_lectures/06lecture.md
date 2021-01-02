@@ -1,9 +1,9 @@
 ---
 layout: lecture-two-column
 num: 6
-title: "Technologies of categorization & classification: Ideological foundations"
+title: "Categories & Classification Systems"
 type: lecture
-draft: 0
+draft: 1
 due_date: 2021-01-28
 details: 
     - How are classification and categorization systems both useful and problematic?
