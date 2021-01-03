@@ -3,31 +3,49 @@ layout: default
 ---
 <section class="readings">
 {{content}}
-{% assign dateStart = site.term_start_date | date: '%s' %}
-{% assign now = 'now' | date: '%s' %}
+{% assign last_group = 0 %}
 {% assign last_week = 0 %}
-<table>
-    <thead>
-        <tr>
-            <th>Week</th>
-            <th>Topic</th>
-            <th>Readings</th>
-        </tr>
-    </thead>
-    <tbody>
+
 {% for lecture in site.lectures %}
-    <!-- Only output if it's a lecture that has readings -->
+    {% assign dateStart = site.term_start_date | date: '%s' %}
+    {% assign lectureDate = lecture.due_date | date: '%s' %}
+    {% assign diffSeconds = lectureDate | minus: dateStart %}
+    {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
+    {% assign week = diffDays | divided_by: 7 | plus: 1 %}
     {% if lecture.type != "lab" %}
-        {% assign lectureDate = lecture.due_date | date: '%s' %}
-        {% assign diffSeconds = lectureDate | minus: dateStart %}
-        {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
-        {% assign week = diffDays | divided_by: 7 | plus: 1 %}
+        {% if lecture.group != last_group %}
+            {% if last_group != 0 %}
+                </tbody></table>
+            {% endif %}
+            <h2>
+                {% if lecture.group == 1 %}
+                    I. Morality, Ethics, & Human Values
+                {% elsif lecture.group == 2 %}
+                    II. Theories of Technology & Society
+                {% else %}
+                    III. Computing Infrastructures
+                {% endif %}
+            </h2>
+            <table><tbody>
+        {% endif %}
+        {% assign last_group = lecture.group %}
+        {% if week != last_week %}
+            <tr class="week">
+                <th>
+                    <h3>Week {{week}}</h3>
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        {% endif %}
+        {% assign last_week = week %}
         <tr>
             <td>
                 {% if week != last_week %}
-                    <h3>Week {{week}}</h3>
+                    <strong>Week {{week}}</strong><br>
                 {% endif %}
-                <p>{{ lecture.due_date | date: "%a, %m/%d" }}</p>
+                {% assign last_week = week %}
+                {{ lecture.due_date | date: "%a, %m/%d" }}
             </td>
             <td>{{lecture.title}}</td>
             <td>

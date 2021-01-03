@@ -4,6 +4,7 @@ num: 2
 title: Humans & Morality
 type: lecture
 draft: 1
+group: 1
 due_date: 2021-01-14
 details:
   - What does it mean to apply an ethical lens?

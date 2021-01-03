@@ -4,6 +4,7 @@ num: 6
 title: "Categories & Classification Systems"
 type: lecture
 draft: 1
+group: 2
 due_date: 2021-01-28
 details: 
     - How are classification and categorization systems both useful and problematic?

@@ -4,6 +4,7 @@ num: 3
 title: Intro to Moral Philosophy
 type: lecture
 draft: 1
+group: 1
 due_date: 2021-01-19
 # details: 
 #   - How do you go about identifying values in design?

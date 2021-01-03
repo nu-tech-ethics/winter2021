@@ -4,6 +4,7 @@ num: 8
 title: "Media Representation"
 type: lecture
 draft: 1
+group: 2
 due_date: 2021-02-02
 details: 
     - How do media representations both normalize and resist existing categorization and classification schemes?

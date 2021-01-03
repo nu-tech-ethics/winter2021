@@ -261,7 +261,8 @@ header {
     align-items: flex-end;
     justify-content: center;
     flex-direction: row;
-    background: url(/winter2021/assets/images/purple-polygons.png) repeat-y;
+    background: $purple;
+    // background: url(/winter2021/assets/images/purple-polygons.png) repeat-y;
     .title-text {
         display: flex;
         align-items: center;

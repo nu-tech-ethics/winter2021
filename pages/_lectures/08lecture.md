@@ -15,20 +15,11 @@ readings:
       source: |
         Race After Technology: Abolitionist Tools for the New Jim Code
       date: 2019
-    - title: "Ch 1. Notes on surveillance studies: Through the door of no return"
-      author: Browne, Simone
-      date: 2015
-      source: "Dark matters: On the surveillance of blackness"
-    - title: Racial Recognition
-      url: https://vimeo.com/showcase/7260847/video/429377282
-      authors: Komiyama-Kasai, Yuzuka; Voelkel, Gregory
-      date: June, 2020
-      source: Young People's Race, Power, and Technology project (YPRPT)
-    - title: Melting ICE
-      url: https://vimeo.com/showcase/7260847/video/429377282
-      authors: Morrow, Jazminé; Chandra, Eliana
-      date: June, 2020
-      source: Young People's Race, Power, and Technology project (YPRPT)
+    - title: "The Messy Truth About Social Credit (China)"
+      url: https://logicmag.io/china/the-messy-truth-about-social-credit/
+      source: Logic Magazine
+      author: Ahmed, Shazeda
+      date: May, 2019
 ---
 
 TBD

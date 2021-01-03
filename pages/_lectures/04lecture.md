@@ -7,6 +7,7 @@ details:
     - How are stereotypes and problematic notions of people, places, and communities "baked in" to computing technologies, and what are some examples of this?
     - How can computing technologies exacerbate, reify, disrupt these ideas?
 draft: 1
+group: 2
 due_date: 2021-01-21
 readings:
   - url: https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf

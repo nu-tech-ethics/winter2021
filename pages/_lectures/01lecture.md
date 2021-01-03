@@ -4,6 +4,7 @@ num: 1
 title: Introduction
 type: lecture
 draft: 1
+group: 1
 due_date: 2021-01-12
 readings:
   - title: "Course Syllabus"
