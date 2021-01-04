@@ -8,7 +8,6 @@ layout: default
 <section class="readings">
 {{content}}
 {% assign last_group = 0 %}
-{% assign last_week = 0 %}
 {% for date in dates %}
     {% assign lecture = site.lectures | where: 'due_date', date | last %}
     {% if lecture.group != last_group %}
@@ -48,35 +47,25 @@ layout: default
                     {% include page_readings.html %} 
                 {% endif %}
             </td>
-            <td></td>
         {% else %}
             <td></td>
             <td></td>
-            <td>
-                <strong>Due:</strong>
-                {% assign assignments = site.assignments | where: 'due_date', date %}
-                {% for assignment in assignments %}
-                    {% assign className = 'pj' %}
-                    {% if assignment.type == 'homework' %}
-                        {% assign className = 'hw' %}
-                    {% endif %}
-                    {% if assignment.type == 'lab' %}
-                        {% assign className = 'lab' %}
-                    {% endif %}
-                    {% if assignment.type == 'extra credit' %}
-                        {% assign className = 'ec' %}
-                    {% endif %}
-                    
-                    {% if assignment.draft == 1 %}
-                        {{ assignment.title }}
-                    {% else %} 
-                        <a href="{{site.baseurl}}{{assignment.url}}">
-                            {{ assignment.title }}
-                        </a>
-                    {% endif %} 
-                {% endfor %}
-            </td>
         {% endif %}
+        <td>
+            {% assign assignments = site.assignments | where: 'due_date', date %}
+            <!-- {% if assignments.first %}
+                <strong>Due:</strong>
+            {% endif %} -->
+            {% for assignment in assignments %}
+                {% if assignment.draft == 1 %}
+                    {{ assignment.title }}
+                {% else %} 
+                    <a href="{{site.baseurl}}{{assignment.url}}">
+                        {{ assignment.title }}
+                    </a>
+                {% endif %} 
+            {% endfor %}
+        </td>
     </tr>
 {% endfor %}
     </tbody>
