@@ -1,25 +1,15 @@
 ---
-layout: two-column
+layout: syllabus
 title: Syllabus
 type: page
 permalink: /syllabus/
+course: "CS396: Computing, Ethics, and Society"
+professor: Sarah Van Wart
+ta: Katherine Johns
+class_time: Tuesdays and Thursdays, 2:00 - 3:20pm
+class_location: Online, Synchronous
+include_covid_statement: 1
 ---
-
-|--|--|
-| **Term** | Winter, 2021 |
-| **Course** | CS396: Computing, Ethics, and Society |
-| **Prerequisites** | None |
-| **Professor** | Sarah Van Wart |
-| **Peer Mentor** | Katherine Johns |
-| **Class Time** | Tuesdays and Thursdays, 2:00 - 3:20pm |
-| **Class Location** | Online, ***Synchronous*** |
-
-{:.callout}
-> ## Learning During COVID-19
-> The COVID-19 pandemic is still ongoing and will present new, unexpected challenges to our class and to our community at Northwestern. I want to acknowledge that things are difficult for many of us on multiple fronts. Some thoughts:
-1. Your health and well-being is always top priority. Please communicate with me if you have something going on so that we can figure out a path forward together.
-2. There are numerous resources at Northwestern that are in place to support stuednts with extenuating circumstances (e.g. CAPS, talking to your academic advisor, talking to the dean of students, etc.). I can help you navigate these paths if you need help.
-
 
 ## About the Course
 ### Why should we care about ethical questions with respect to technology?
@@ -97,6 +87,14 @@ Will will post our office hours schedule during the first week of classes.
 
 ## Course Learning Goals
 
+{:.blockquote-no-margin.callout}
+> ### Course Goals
+> 1. [Recognizing the impact of one's own assumptions, biases, and experiences](#goal-1)
+> 2. [Identifying (and questioning) dominant/normative ways of thinking about computing and technology](#goal-2)
+> 3. [Understanding some of the underlying concepts that power AI and the internet](#goal-3)
+> 4. [Developing a framework for thinking about the relationship between technology and society](#goal-4)
+> 5. [Considering how to participate in a world that is heavily mediated by computing](#goal-5)
+
 {:#goal-1}
 ### 1. Recognizing the impact of one's own assumptions, biases, and experiences
 Students will appreciate and understand how their own assumptions, experiences, worldviews, social location, and identity categories can and do impact the design, implementation, and use of computing technologies. Our hope is that students across a range of majors will become more conscious, sensitive, ethically aware, and humble thinkers/doers in the world. 
@@ -118,10 +116,9 @@ Students will develop a framework for considering when, how, or even if technolo
 Lastly, students will formulate ideas (or strengthen existing ones) around how they might use their own knowledge, skills, dispositions, and creativity to participate in the world going forward; and to foster a more ethical and just society. This may involve taking some future action (big or small), exploring a new idea, reading more about a topic, or something else. 
 
 ## A Note on Class Recordings
-We will **NOT** be recording classes. 
+We will **NOT** be recording classes. The Provost's office has asked instructors to publish the following language in the syllabus:
 
-The Provost's office has asked instructors to publish the following language in the syllabus:
-
+{:.blockquote-no-margin}
 > ### Policy On Unauthorized Student Recording of Classroom or other Academic Activities
 > Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNU. Unauthorized use of classroom recordings — including distributing or posting them — is also prohibited.  
 >

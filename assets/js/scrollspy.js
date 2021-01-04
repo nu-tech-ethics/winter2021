@@ -76,7 +76,7 @@
     });
     initPositions();
     
-    window.onscroll = () => {
+    const handleScroll = () => {
         scrollPosition = document.documentElement.scrollTop || document.body.scrollTop;
         for (let key in sections) {
             //console.log(scrollPosition + 10);
@@ -85,11 +85,17 @@
                 if (currentLink) {
                     currentLink.setAttribute('class', ' ');
                 }
-                findElementByAttributeWorkaround('href', key, 'a').setAttribute('class', 'active');
+                const elem = findElementByAttributeWorkaround('href', key, 'a');
+                if (elem) {
+                    elem.setAttribute('class', 'active');
+                }
             }
         }
         stickyToggle();
         prevScroll = scrollPosition;
     };
+
+    window.onscroll = handleScroll;
+    setTimeout(handleScroll, 100);
   })();
   

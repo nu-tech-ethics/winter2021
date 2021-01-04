@@ -50,6 +50,26 @@ table {
         text-align: left;
     }
 }
+
+
+table.schedule-simple {
+    border-width: 0px;
+    th, td {
+        border-width: 0px;
+        padding: 4px;
+        &:nth-child(1) {
+            width: 60px;
+        }
+        &:nth-child(2) {
+            width: 100px;
+        }
+    }
+    tr {
+        &:last-child {
+            border-bottom: solid 1px #000;
+        }
+    }
+}
 table.rubric-short {
     td:nth-child(1), th:nth-child(1) {
         width: 40px;
