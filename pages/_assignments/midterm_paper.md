@@ -5,6 +5,7 @@ abbreviation: Midterm
 type: project
 due_date: 2021-02-19
 draft: 1
+points: 30
 ---
 
 ## Analyze a computing application of your choice

@@ -136,12 +136,17 @@ table.rubric {
 
 .readings {
     table {
-        thead, tbody {
+        thead {
             tr:last-child {
                 border-bottom: solid 1px #000;
                 th {
-                    padding-bottom: 0px;
+                    padding-bottom: 3px;
                 }
+            }
+        }
+        tbody {
+            tr:last-child {
+                border-bottom: dotted 1px #999;
             }
         }
         border-top-width: 0px;

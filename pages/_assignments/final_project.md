@@ -6,6 +6,7 @@ type: project
 due_date: 2021-03-17
 ordering: 0 
 draft: 1
+points: 30
 ---
 
 You will have two choices for the final project: 
