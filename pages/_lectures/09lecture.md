@@ -5,6 +5,7 @@ title: |
     Surveillance: Part 2 (Guest Speaker)
 type: lecture
 draft: 1
+group: 2
 due_date: 2021-02-09
 readings:
     - title: "Cameras in the Classroom: Facial Recognition Technology in Schools"
