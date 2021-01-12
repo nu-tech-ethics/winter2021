@@ -1,5 +1,5 @@
 ---
-layout: lecture
+layout: module
 num: 8
 title: "Media Representation"
 type: lecture
@@ -35,7 +35,7 @@ readings:
 
 How media representation normalizes categories. How do networked computing infrastructures challenge / produce / reproduce winners and losers? What is new (velocity, size, scale, granularity, ubiquity, centralization, etc. of categories) and what has always been with us (fake news, stereotypes, etc.)
 
-### Guiding Questions
+## Guiding Questions
 * What kind of work do representations do in both normalizing and resisting existing categorization and classification schemes?
 
 

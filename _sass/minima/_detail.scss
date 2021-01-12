@@ -89,6 +89,16 @@ table.instructions {
     }
 }
 
+.optional-readings {
+    font-size: 1.0em;
+    font-family: 'Akkurat Pro Regular';
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: normal;
+    display: block;
+    color: #777;
+}
+
 .books {
     display: flex;
     flex-wrap: wrap;

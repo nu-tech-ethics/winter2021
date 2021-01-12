@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: "HW 2"
+title: "Response 2"
 abbreviation: Response
 type: project
 due_date: 2021-01-21

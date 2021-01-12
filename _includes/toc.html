@@ -85,7 +85,8 @@
     {% endfor %}
 
     {% if include.class and include.class != blank %}
-        {% capture my_toc %}{:.{{ include.class }}}
+        {% assign legit_class = include.class | append: " wassup" %}
+        {% capture my_toc %}{:.{{ legit_class }}}
 {{ my_toc | lstrip }}{% endcapture %}
     {% endif %}
 

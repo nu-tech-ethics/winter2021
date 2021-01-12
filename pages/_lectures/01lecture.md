@@ -1,5 +1,5 @@
 ---
-layout: lecture
+layout: module
 num: 1
 title: Introduction
 type: lecture
@@ -24,7 +24,7 @@ Welcome to the course [some introductory text]. Things to include:
 * Goals for the class
 * Intro to ethics
 
-### Guiding Questions
+## Guiding Questions
 * What brings you to this class?
 * What is ethics?
 * Is there something unique about ethics as it relates to science and technology?

@@ -1,5 +1,4 @@
 {% assign optional = 0 %}
-<!-- <h3>Required</h3> -->
 <ul class="readings">
 {% for item in page.readings %}
     {% if item.optional == 1 %}
@@ -11,9 +10,8 @@
 </ul>
 
 
-{% comment %}
 {% if optional == 1 %}
-    <h3>Optional</h3>
+    <div class="optional-readings">Also Recommended</div>
     <ul class="readings">
     {% for item in page.readings %}
         {% if item.optional == 1 %}
@@ -22,4 +20,3 @@
     {% endfor %}
     </ul>
 {% endif %}
-{% endcomment %}
