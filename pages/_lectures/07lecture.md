@@ -18,12 +18,6 @@ readings:
       source: "Algorithms of oppression: How search engines reinforce racism"
       date: 2018
       author: Noble, Safiya Umoja
-    - title: "Media representation of Muslims and Islam from 2000 to 2015: A meta-analysis"
-      url: https://journals.sagepub.com/doi/full/10.1177/1748048516656305
-      date: 2016
-      authors: Ahmed, Saifuddin; Matthes, Jorg
-      source: International Communication Gazette
-      optional: 1
     - url: http://ieas.unideb.hu/admin/file_9698.pdf
       title: "Ch2. The whites of their eyes: Racist ideologies and the media"
       source: "Gender, Race, & Class in Media"

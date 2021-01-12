@@ -8,13 +8,16 @@ draft: 1
 group: 2
 due_date: 2021-02-09
 readings:
-    - title: "Cameras in the Classroom: Facial Recognition Technology in Schools"
-      url: http://stpp.fordschool.umich.edu/sites/stpp.fordschool.umich.edu/files/file-assets/cameras_in_the_classroom_full_report.pdf
-      author: Galligan, Rosenfeld, Kleinman, & Parthasarathy
-      source: |
-        Race After Technology: Abolitionist Tools for the New Jim Code
-      source: "University of Michigan Technology Assessment Project"
-      date: 2020
+    - title: "The Messy Truth About Social Credit (China)"
+      url: https://logicmag.io/china/the-messy-truth-about-social-credit/
+      source: Logic Magazine
+      author: Ahmed, Shazeda
+      date: May, 2019
+    - title: Nosedive, Season 3, Episode 1
+      author: Black Mirror
+      date: Oct. 21, 2016
+      source: Netflix
+      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
 ---
 
 TBD

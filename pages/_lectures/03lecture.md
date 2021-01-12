@@ -15,18 +15,33 @@ readings:
     date: 2009
     source: "Justice: What's the right thing to do?"
     url: "https://canvas.northwestern.edu/files/10338991/download?download_frd=1"
-  - title: Intro to 5 Ethical Lenses
-    url: https://www.scu.edu/ethics-in-technology-practice/ethical-lenses/
-    source: The Markkula Center for Applied Ethics
-    optional: 1
-  - title: ACM Code of Ethics
-    url: https://www.acm.org/code-of-ethics
-    optional: 1
-  - title: IEEE Code of Ethics
-    url: https://www.ieee.org/about/corporate/governance/p7-8.html
-    optional: 1
+  - title: Chapter 2. Utilitarianism
+    author: Sandel, Michael J.
+    date: 2009
+    url: "https://canvas.northwestern.edu/files/10339355/download?download_frd=1"
+    pick_one: 1
+  - title: Chapter 3. Libertarianism
+    author: Sandel, Michael J.
+    date: 2009
+    url: "https://canvas.northwestern.edu/files/10339356/download?download_frd=1"
+    pick_one: 1
+  - title: Chapter 5. Kant
+    author: Sandel, Michael J.
+    date: 2009
+    url: "https://canvas.northwestern.edu/files/10339357/download?download_frd=1"
+    pick_one: 1
+#   - title: ACM Code of Ethics
+#     url: https://www.acm.org/code-of-ethics
+#     optional: 1
+#   - title: IEEE Code of Ethics
+#     url: https://www.ieee.org/about/corporate/governance/p7-8.html
+#     optional: 1
 
 ---
 
 ## Activities
-Defer to Sepehr’s prior teaching activities re: introducing Benjamin, race, power, etc.; as well as how to develop an ethical framework.
+Analyze a perspective...
+
+* Utilitarianism
+* Libertarianism
+* ??

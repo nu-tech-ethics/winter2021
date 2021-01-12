@@ -12,16 +12,17 @@ details:
     - How do computer- and data-mediated systems shape how classification and categorization impact our world?
     - How do proxy categories circumvent legislation designed to protect people belonging to vulnerable social categories?
 readings:
-    - title: "Sorting things out: Classification and its consequences. Introduction."
+    - title: Chapter 1. How Stratification Works
+      author: Massey, Douglas
+      date: 2007
+      source: "Categorically unequal: The American stratification system"
+      url: https://canvas.northwestern.edu/files/10339369/download?download_frd=1
+    - title: "Sorting things out: Classification and its consequences. Introduction"
       author: Bowker & Star
       url: https://canvas.northwestern.edu/files/10274369/download?download_frd=1
       date: 1998
       source: MIT Press
-    - title: Nosedive, Season 3, Episode 1
-      author: Black Mirror
-      date: Oct. 21, 2016
-      source: Netflix
-      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
+      optional: 1
 ---
 
 What’s new about categorization and classification? How do new data and computing technologies shape / disrupt / reify / reproduce existing categorization / classification systems?

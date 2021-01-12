@@ -10,8 +10,6 @@ draft: 1
 group: 2
 due_date: 2021-01-26
 readings:
-    - title: Social Stratification
-      author: Massey, Douglas
     - title: Chapter 1. Engineered Inequity
       author: Benjamin, Ruha
       source: |
