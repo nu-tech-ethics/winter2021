@@ -13,7 +13,6 @@ layout: default
                 <th>Week</th>
                 <th>Assignment</th>
                 <th>Description</th>
-                <th>Points</th>
                 <th>Due</th>
                 <th>Days Left</th>
             </tr>
@@ -33,7 +32,7 @@ layout: default
             {% if assignment.type == 'homework' %}
                 {% assign className = 'hw' %}
             {% endif %}
-            {% if assignment.type == 'lab' %}
+            {% if assignment.type == 'response' %}
                 {% assign className = 'lab' %}
             {% endif %}
             {% if assignment.type == 'extra credit' %}
@@ -58,8 +57,11 @@ layout: default
                         </a> 
                     {% endif %}                   
                 </td>
-                <td>{{ assignment.title }}</span>
-                <td>{{ assignment.points }} points</td>
+                <td>
+                    {% if assignment.title != assignment.abbreviation %}
+                        {{ assignment.title }}
+                    {% endif %}   
+                    </td>
                 <td>{{ assignment.due_date | date: "%a, %m/%d" }}</td>
                 <td>
                     <span class="due-date">

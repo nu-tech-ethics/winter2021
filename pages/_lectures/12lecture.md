@@ -30,6 +30,7 @@ readings:
     - url: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
       authors: Yee, Stephanie and Chu, Tony
       title: "A Visual Introduction to Machine Learning, Part 1" 
+      optional: 1
 ---
 
 Some videos to demystify the mechanism:

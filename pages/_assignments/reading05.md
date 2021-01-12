@@ -1,10 +1,9 @@
 ---
 layout: assignment-two-column
-title: Response 3
-abbreviation: Response 3
+title: Response 5
+abbreviation: Response 5
+due_date: 2021-02-11
 type: response
-due_date: 2021-01-28
 ordering: 1
 draft: 1
-points: 2
 ---

@@ -28,12 +28,15 @@ The course is open to all students. For CS majors and minors, the course aims to
 ## Course Format
 The course format will consist of:
 1. Readings and in-class discussions of current and enduring socio-technical dilemmas, and how they relate to applications of AI, Big Data, and the Internet.
-2. Hands-on activities to help students to consider the potential impacts of different kinds of technical decisions (e.g. sampling, data collection practices, categorization and classification strategies, prediction, system design, etc.).
+2. In-class activities to help students to consider the potential impacts of different kinds of technical decisions (e.g. sampling, data collection practices, categorization and classification strategies, prediction, system design, etc.).
 3. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
-## Course Readings
-We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entirety, as well as excerpts from the books listed below:
-<section class="books">
+## Required Texts
+We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entirety:
+* Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
+
+
+<!-- <section class="books">
     <img class="book" src="../assets/images/book_race_after_technology.jpeg" />
     <img class="book" src="../assets/images/book_algos_of_oppression.jpg" />
     <img class="book" src="../assets/images/book_custodians_of_the_internet.jpg" />
@@ -42,36 +45,54 @@ We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entire
     <img class="book" src="../assets/images/book_seeing_like_a_state.jpg" />
     <img class="book" src="../assets/images/book_dark_matters.jpg" />
     <img class="book" src="../assets/images/book_automating_inequality.jpg" /><img class="book" src="../assets/images/book_twitter_teargas.jpg" />
-</section>
+</section> -->
 
-## Coursework & Assignments
+## Course Format & Grading
 The course format will consist of:
 
-{:.small}
-| 1. Attendance, participation, & reading responses | **20%** |
-| 2. Labs | **20%** |
-| 3. Midterm Project | **30%** |
-| 4. Final Project | **30%** |
+1. Participation (30%)
+2. Homework (40%)
+3. Final project or paper (30%)
 
-### 1. Attendance, Participation, and Reading Responses (20%)
-We will use classroom discussion as a form of collaborative sense-making to understand, critique, and interrogate the required [course readings](../readings). Your timely and engaged attendance at every class is thus very important – both for you and for your classmates. Every student will need to participate in a thoughtful and productive manner in order for these discussions to be effective. Building on and reacting to other participants’ comments is encouraged, and should be done in a respectful tone even if you disagree. In order to participate fully, please do not let your laptop, phone, or other devices distract you or other participants. 
+### 1. Participation (30%)
+Your participation grade will be based on attendance, and on evidence that you have completed the readings (as reflected both through your in-class participation as well as through the quality of your reading responses and Identity Journal entries).
 
-Additionally, we will begin selected classes with a short writing response based on that day’s readings. Your participation grade will be based on evidence that you have completed the readings and are able to thoughtfully respond to the day’s writing prompt. Unexcused absences and tardiness will affect this part of your grade. 
+#### Class Discussions
+We will use classroom discussion as a form of collaborative sense-making to understand, critique, and interrogate the required [course readings](../). Your timely and engaged attendance at every class is thus very important – both for you and for your classmates. Every student will need to participate in a thoughtful and productive manner in order for these discussions to be effective. Building on and reacting to other participants’ comments is encouraged, and should be done in a respectful tone even if you disagree. In order to participate fully, please do not let your laptop, phone, or other devices distract you or other participants. 
+
+#### Reading Responses
+Students will also be required to submit **weekly reading responses**. Responses should be around 200-400 words in length (give or take). Sometimes, you will be given specific questions to answer. Other times you can write about themes, ideas, and questions that interested you. Your grade will be based on evidence that you did the readings. 
+
+Some approaches that you could take include (but are not limited to):
+* Summarizing of one or more key arguments of a readings and whether / how these arguments resonate with you.
+* Analyzing some of the strengths or weaknesses of the article(s).
+* Writing about ideas you were confused about and/or didn't entirely understand (and what about them was confusing / ambiguous).
+* Sharing thoughts about how the readings connect to other readings we've done, or to current events going on in the world.
+* Sharing thoughts on what you would like to learn about in more detail.
+
+In addition to writing your own responses, you will respond to at least **two** of your classmates' posts per week. Both your writing response and your responses to your classmates should be submitted **before class (2PM) on the day it is due**. You may miss one reading response during the quarter without a grade penalty.
+
+#### Identity Journal
+Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class. 
 
 {:.blockquote-no-margin}
 > **Attendance and Absence Policy**
 > 
 > You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your final grade will be lowered by one level for each absence. For example, if you had an “A” in the course, your grade will be lowered to an “A-.”
 
-### 2. Technology Labs (20%)
-The technology labs will provide a way to explore and better understand some of the underlying mechanisms of various computing technologies. In other words, in order to reason about the possibilities and risks that are inherent to certain classes of technologies, we believe it is useful to examine how these technologies work. These labs will not require any prior programming knowledge, but they will ask you to engage with technical ideas (basic statistics, how databases work, and so forth). When possible, we aim to use “real-world” datasets to ground these labs in real contexts and dilemmas.
-
-### 3. Midterm Paper (30%)
-See [midterm paper](../assignments/midterm-paper)
+### 3. Homework (40%)
+You will also complete 4 homework assignments, which are intended to to help you analyze existing technologies and debates using some of the ideas you're learning in the course. These will be posted on the course schedule in the second week of class.
 
 ### 4. Final Project (30%)
-The final project will likely be a speculative assignment (still being designed) that will ask you to consider how one or more computing technologies has shaped our world in the year 2100.
+The current plan for the final project is for you to choose from one of the two options below. This may change.
 
+The first is an individual paper based in the genre of speculative fiction. Imagine the state of the world in 2100. You are free to imagine based on how you see the current world evolving, or you can imagine a totally alternative reality based on your wildest dreams or fears. Using key texts from the class, you will describe in rich detail the socio-technical features of this world, and your analysis will describe the systems, policies, and decisions that got us there. If you wish, you have the option of submitting your final paper to the BreakPoint journal for publication. Shoot for 5-6 pages.
+
+The second option is to work with a partner to create an educational tech/ethics module designed around one of the focal technologies discussed throughout the quarter. You will identify learning objectives and a target audience of learners for your module (e.g. a 7th grade social studies class, a network of human rights lawyers, a Congressional subcommittee, etc). You will create a set of learning and teaching resources which might include lesson plans, assessments, podcasts, interactive demos, etc).
+
+
+### Other Grading Logistics
+We will not be using the final exam time for this class because there is no midterm or final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
 
 ## Expectations
 * You will come to class prepared and ready to engage in an intellectual discussion about the readings.

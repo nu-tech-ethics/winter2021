@@ -89,16 +89,13 @@ layout: default
         {% endif %}
         <td>
             {% assign assignments = site.assignments | where: 'due_date', date %}
-            <!-- {% if assignments.first %}
-                <strong>Due:</strong>
-            {% endif %} -->
             {% for assignment in assignments %}
-                
-
-                {% if assignment.type == 'lab' %}
-                    ({{ assignment.abbreviation }})
-                {% elsif assignment.draft == 1 %}
-                    {{ assignment.title}}
+                {% assign title = assignment.abbreviation %}
+                {% if assignment.type == "homework" %}
+                    {% assign title = assignment.abbreviation | append: ": " | append: assignment.title %}
+                {% endif %}
+                {% if assignment.draft == 1 %}
+                    {{ title }}
                 {% else %} 
                     <a href="{{site.baseurl}}{{assignment.url}}">{{assignment.title}}</a>  
                 {% endif %}
