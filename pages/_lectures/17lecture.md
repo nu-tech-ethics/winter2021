@@ -5,6 +5,7 @@ title: |
     Platforms: Business Models
 type: lecture
 draft: 1
+group: 3
 due_date: 2021-03-09
 details: 
     - What are some considerations that go into determining whether user-generated content is acceptable on a platform?

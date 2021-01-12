@@ -78,7 +78,7 @@ Each student will also create an "Identity Journal" that will be updated through
 {:.blockquote-no-margin}
 > **Attendance and Absence Policy**
 > 
-> You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your final grade will be lowered by one level for each absence. For example, if you had an “A” in the course, your grade will be lowered to an “A-.”
+> You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted.
 
 ### 3. Homework (40%)
 You will also complete 4 homework assignments, which are intended to to help you analyze existing technologies and debates using some of the ideas you're learning in the course. These will be posted on the course schedule in the second week of class.

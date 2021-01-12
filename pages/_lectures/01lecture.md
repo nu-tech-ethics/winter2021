@@ -3,8 +3,12 @@ layout: module
 num: 1
 title: Introduction
 type: lecture
-draft: 1
+draft: 0
 group: 1
+show_schedule: 1
+slides:
+  - url: https://docs.google.com/presentation/d/1WjTcZ1_VLxuD1f9VTQQR-hV8NDUZ2EEwUrcYUd1tnhw/edit?usp=sharing
+    title: Intro to the Course
 due_date: 2021-01-12
 readings:
   - title: "Course Syllabus"
@@ -12,22 +16,7 @@ readings:
     internal: 1
     notes: "Please read through the syllabus"
 
-details:
-  - Goals for the class
-  - What is ethics?
 ---
 
-Welcome to the course [some introductory text]. Things to include:
-* Q: Why CS / Learning Sciences / Social Policy 
-    * Both examine  socio-techical possibilities vis a vis infrastructure
-    * Both invested in learning
-* Goals for the class
-* Intro to ethics
+Welcome to the course! Hopefully the last COVID-19 edition. We’ll all be figuring this online situation out together – let’s help each other stay engaged, motivated, productive, and healthy! Today is mostly a logistics day. See the slides for details.
 
-## Guiding Questions
-* What brings you to this class?
-* What is ethics?
-* Is there something unique about ethics as it relates to science and technology?
-
-## Activities
-* Icebreaker?

@@ -4,6 +4,7 @@ num: 18
 title: Synthesis
 type: lecture
 draft: 1
+group: 3
 due_date: 2021-03-11
 details: 
     - Given the diagnoses made by a variety of different scholars, activists, and your classmates, what are possible remedies suggested?

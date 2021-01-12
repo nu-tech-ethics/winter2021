@@ -4,6 +4,7 @@ num: 10
 title: "Big Data"
 type: lecture
 draft: 1
+group: 3
 due_date: 2021-02-16
 readings:
     - title: "Provocations for big data: Provocations for a cultural, technological, and scholarly phenomenon"

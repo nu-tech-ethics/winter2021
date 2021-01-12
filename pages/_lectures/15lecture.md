@@ -7,6 +7,7 @@ details:
    - Name some of the challenges 
 type: lecture
 draft: 1
+group: 3
 due_date: 2021-03-02
 readings:
    - url: https://research.google/pubs/pub334/

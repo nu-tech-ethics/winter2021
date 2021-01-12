@@ -4,6 +4,7 @@ num: 12
 title: "AI: Part 1"
 type: lecture
 draft: 1
+group: 3
 due_date: 2021-02-18
 details:
     - Is bias in AI different from other forms of bias? If so, how?

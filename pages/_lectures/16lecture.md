@@ -5,6 +5,7 @@ title: |
     Platforms: Content Moderation
 type: lecture
 draft: 1
+group: 3
 due_date: 2021-03-04
 details: 
     - Who are the stakeholders (social media platforms)?
