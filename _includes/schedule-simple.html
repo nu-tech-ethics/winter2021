@@ -119,24 +119,17 @@
             <td>
                 {% assign assignments = site.assignments | where: 'due_date', date %}
                 {% for assignment in assignments %}
-                    {% assign className = 'pj' %}
-                    {% if assignment.type == 'homework' %}
-                        {% assign className = 'hw' %}
+                    {% assign title = assignment.abbreviation %}
+                    {% if assignment.type == "homework" %}
+                        {% assign title = assignment.abbreviation | append: ": " | append: assignment.title %}
                     {% endif %}
-                    {% if assignment.type == 'lab' %}
-                        {% assign className = 'lab' %}
-                    {% endif %}
-                    {% if assignment.type == 'extra credit' %}
-                        {% assign className = 'ec' %}
-                    {% endif %}
-                    
                     {% if assignment.draft == 1 %}
-                        {{ assignment.title }}
+                        {{ title }}
+                    {% elsif assignment.external_url %}
+                        <a href="{{assignment.external_url}}" target="_blank">{{assignment.title}}</a>  
                     {% else %} 
-                        <a href="{{site.baseurl}}{{assignment.url}}">
-                            {{ assignment.title }}
-                        </a>
-                    {% endif %} 
+                        <a href="{{site.baseurl}}{{assignment.url}}">{{assignment.title}}</a>  
+                    {% endif %}
                 {% endfor %}
             </td>
         </tr>
