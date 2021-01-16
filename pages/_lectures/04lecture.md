@@ -20,7 +20,7 @@ readings:
     author: Benjamin, Ruha
     source: "Race After Technology"
     date: 2019
-    notes: Only the introduction is available via PDF. Please see syllabus for access options.
+    notes: Only the introduction is available on Canvas. Please see syllabus for access options for the remaining chapters.
 ---
 
 TBD
