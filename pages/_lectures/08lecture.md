@@ -13,8 +13,7 @@ due_date: 2021-02-04
 readings:
     - title: Chapter 3. Coded Exposure
       author: Benjamin, Ruha
-      source: |
-        Race After Technology: Abolitionist Tools for the New Jim Code
+      source: "Race After Technology"
       date: 2019
     - title: "Cameras in the Classroom: Facial Recognition Technology in Schools"
       url: http://stpp.fordschool.umich.edu/sites/stpp.fordschool.umich.edu/files/file-assets/cameras_in_the_classroom_full_report.pdf

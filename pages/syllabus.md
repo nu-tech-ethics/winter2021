@@ -32,7 +32,7 @@ The course format will consist of:
 3. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
 ## Required Texts
-We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entirety:
+We will be reading *Race After Technology* by Ruja Benjamin (2019) in its entirety. You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Nortwestern Library</a>.
 * Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
 
 

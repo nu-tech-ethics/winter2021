@@ -16,10 +16,11 @@ readings:
     date: 1980
     source: Daedalus
   - title: Introduction
+    url: https://canvas.northwestern.edu/files/10369235/download?download_frd=1
     author: Benjamin, Ruha
-    source: |
-        Race After Technology: Abolitionist Tools for the New Jim Code
-    date: 2018
+    source: "Race After Technology"
+    date: 2019
+    notes: Only the introduction is available via PDF. Please see syllabus for access options.
 ---
 
 TBD

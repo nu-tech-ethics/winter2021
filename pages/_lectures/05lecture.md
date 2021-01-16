@@ -12,8 +12,8 @@ due_date: 2021-01-26
 readings:
     - title: Chapter 1. Engineered Inequity
       author: Benjamin, Ruha
-      source: |
-        Race After Technology: Abolitionist Tools for the New Jim Code
+      source: "Race After Technology"
+      date: 2019
     - title: The Idea of America
       url: https://canvas.northwestern.edu/files/10274358/download?download_frd=1
       source: New York Times Magazine
