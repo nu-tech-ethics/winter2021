@@ -17,6 +17,13 @@ readings:
       date: 2007
       source: "Categorically unequal: The American stratification system"
       url: https://canvas.northwestern.edu/files/10339369/download?download_frd=1
+    - title: Get Back to Where You Once Belonged
+      url: https://www.thisamericanlife.org/694/get-back-to-where-you-once-belonged
+      source: WBEZ Chicago & NPR
+      notes: People looking everywhere to find a place—any place—where, for once, they don't have to be the odd man out.
+      date: Feb. 14, 2020 
+      author: This American Life
+      optional: 1
     - title: "Sorting things out: Classification and its consequences. Introduction"
       author: Bowker & Star
       url: https://canvas.northwestern.edu/files/10274369/download?download_frd=1

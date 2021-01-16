@@ -50,6 +50,10 @@ layout: default
                     {% endunless %} 
                     {% if assignment.draft == 1 %}
                         {{ abbreviation }}
+                    {% elsif assignment.external_url %}
+                        <a href="{{assignment.external_url}}" target="_blank">
+                            {{ abbreviation }} 
+                        </a> 
                     {% else %} 
                         <a class="{{ className }}" href="{{site.baseurl}}{{assignment.url}}">
                             {{ abbreviation }} 

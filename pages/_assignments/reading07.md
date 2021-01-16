@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
-title: Response 7
-abbreviation: Response 7
+title: Reflection 7
+abbreviation: Reflection 7
 due_date: 2021-02-25
 ordering: 1
 draft: 1

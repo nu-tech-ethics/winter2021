@@ -3,7 +3,7 @@ layout: lecture
 num: 2
 title: Humans & Morality
 type: lecture
-draft: 1
+draft: 0
 group: 1
 due_date: 2021-01-14
 details:
