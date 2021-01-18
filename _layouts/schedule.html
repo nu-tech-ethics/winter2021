@@ -99,7 +99,20 @@ layout: default
                 {% elsif assignment.external_url %}
                     <a href="{{assignment.external_url}}" target="_blank">{{title}}</a>  
                 {% else %} 
-                    <a href="{{site.baseurl}}{{assignment.url}}">{{title}}</a>  
+                    {% assign className = 'pj' %}
+                    {% if assignment.type == 'homework' %}
+                        {% assign className = 'hw' %}
+                    {% endif %}
+                    {% if assignment.type == 'response' %}
+                        {% assign className = 'lab' %}
+                    {% endif %}
+                    {% if assignment.type == 'identity' %}
+                        {% assign className = 'ec' %}
+                    {% endif %}
+                    <a class="{{className}}" href="{{site.baseurl}}{{assignment.url}}">{{assignment.abbreviation}} <i class="fa fa-link"></i></a>
+                    {% if assignment.type == "homework" %}
+                        {{assignment.title}}  
+                    {% endif %}
                 {% endif %}
             {% endfor %}
         </td>

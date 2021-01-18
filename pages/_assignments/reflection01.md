@@ -1,7 +1,7 @@
 ---
 layout: assignment
-title: "Reflection 1"
-abbreviation: Reflection 1
+title: "Discussion 1"
+abbreviation: Discussion 1
 # external_url: https://canvas.northwestern.edu/courses/130544/discussion_topics/880164
 type: response
 due_date: 2021-01-14
@@ -9,7 +9,6 @@ ordering: 1
 draft: 0
 ---
 
-## Instructions
 On <a href="https://canvas.northwestern.edu/courses/130544/discussion_topics/880164">Canvas</a>, please respond to today's readings (Pinker, Singer, Haidt). As stated in the syllabus, responses should be around 200-400 words in length (give or take), and your grade will be based on evidence that you did the readings. Some approaches that you could take include (but are not limited to):
 
 * Summarizing one or more key arguments and whether / how these arguments resonate with you.

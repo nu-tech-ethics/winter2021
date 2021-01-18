@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
-title: "Reflection 2"
-abbreviation: Reflection 2
+title: "Discussion 2"
+abbreviation: Discussion 2
 type: response
 due_date: 2021-01-21
 ordering: 1
