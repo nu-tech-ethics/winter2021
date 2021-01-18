@@ -97,9 +97,9 @@ layout: default
                 {% if assignment.draft == 1 %}
                     {{ title }}
                 {% elsif assignment.external_url %}
-                    <a href="{{assignment.external_url}}" target="_blank">{{assignment.title}}</a>  
+                    <a href="{{assignment.external_url}}" target="_blank">{{title}}</a>  
                 {% else %} 
-                    <a href="{{site.baseurl}}{{assignment.url}}">{{assignment.title}}</a>  
+                    <a href="{{site.baseurl}}{{assignment.url}}">{{title}}</a>  
                 {% endif %}
             {% endfor %}
         </td>
