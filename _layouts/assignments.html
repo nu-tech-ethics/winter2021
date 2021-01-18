@@ -92,26 +92,26 @@ layout: default
     for (tr of trs) {
         const lastTd = tr.querySelector('td:last-child');
         if (lastTd) {
-            const isTutorial = tr.querySelector('.lab') != null || tr.querySelector('td:nth-child(2)').innerHTML.includes('Tutorial');
+            // const isReflection = tr.querySelector('td:nth-child(2)').innerHTML.includes('Reflection');
             const nextToLastTd = lastTd.previousElementSibling;
             nextToLastTd.style.maxWidth = "140px";
             const dateString = lastTd.querySelector('.due-date').innerHTML;
             const dueDate = new Date(dateString);
             const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
-            if (isTutorial) {
-                nextToLastTd.innerHTML = "scheduled tutorial time";
-            }
+            // if (isReflection) {
+            //     nextToLastTd.innerHTML = nextToLastTd.innerHTML + " (before class)";
+            // }
             if (numDays < -1) {
                 tr.classList.add('passed');
                 lastTd.innerHTML = "passed";
             }
-            else if (isTutorial) {
-                lastTd.innerHTML = "<span style='font-family: Arial;'>&#8804;</span> " + (numDays + 1).toFixed();
-                //lastTd.innerHTML = '';
-            }
+            // else if (isReflection) {
+            //     lastTd.innerHTML = "<span style='font-family: Arial;'>&#8804;</span> " + (numDays + 1).toFixed();
+            //     //lastTd.innerHTML = '';
+            // }
             else {
                 if (numDays < 0) {
-                    lastTd.innerHTML = "due tonight";
+                    lastTd.innerHTML = "due today";
                 }
                 else {
                     lastTd.innerHTML = (numDays + 1).toFixed();
