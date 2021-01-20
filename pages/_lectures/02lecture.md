@@ -4,6 +4,7 @@ num: 2
 title: Humans & Morality
 type: lecture
 draft: 0
+show_schedule: 1
 group: 1
 slides:
   - url: https://docs.google.com/presentation/d/1aD9QFwiAi2p9lm1cq03m6Cey7eVqRnkXJYfTj-LT_J8/edit?usp=sharing

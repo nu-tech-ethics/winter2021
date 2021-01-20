@@ -5,6 +5,7 @@ title: Intro to Moral Philosophy
 type: lecture
 draft: 0
 group: 1
+show_schedule: 1
 slides:
   - url: https://docs.google.com/presentation/d/1ImPLv5aLpcFESibckwIl326bZiFhTF7WOiQAd-JShHk/edit?usp=sharing
     title: Intro to Moral Philosophy
