@@ -1,14 +1,14 @@
 ---
-layout: lecture
+layout: module
 num: 2
 title: Humans & Morality
 type: lecture
-draft: 1
+draft: 0
 group: 1
+slides:
+  - url: https://docs.google.com/presentation/d/1aD9QFwiAi2p9lm1cq03m6Cey7eVqRnkXJYfTj-LT_J8/edit?usp=sharing
+    title: The Science of Morality
 due_date: 2021-01-14
-details:
-  - What does it mean to apply an ethical lens?
-  - How are various ethical frameworks useful in analyzing how a technology can / should (not) be used in the world?
 readings:
   - title: The Moral Instinct
     url: https://canvas.northwestern.edu/files/10274342/download?download_frd=1
@@ -26,15 +26,3 @@ readings:
     date: 2008
 
 ---
-
-### Guiding Questions
-* What are some ethical frameworks and their core commitments?
-* How are these frameworks useful in analyzing the ethical dilemmas inherent in various scenarios?
-* Is there something unique about ethics as it relates to science and technology?
-
-## Activity
-Unpacking the various ethical lenses, and applying the various ethical lenses to some <a href="https://www.scu.edu/ethics/focus-areas/internet-ethics/cases/" target="_blank">Hypothetical AI cases</a> (Markkula Center for Applied Ethics) [in-class exercise]
-* TODO: brainstorm additional ethical scenarios (e.g. one or more of the racialized technologies from Benjamin).
-
-## Assigned: Homework 1. Identity Memo
-See [hw1 description](../assignments/hw1).
