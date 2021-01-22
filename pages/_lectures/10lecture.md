@@ -18,3 +18,4 @@ readings:
 ---
 
 Ideas to cover: 
+Ghandi's Ideas about technology: https://www.timesnownews.com/technology-science/article/mahatma-and-machines-understanding-gandhis-thoughts-on-modern-technology/498446#:~:text=Throughout%20his%20life%2C%20Gandhiji%20remained,take%20root%20in%20India%20too.

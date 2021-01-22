@@ -1,13 +1,16 @@
 ---
-layout: lecture
+layout: module
 num: 4
 title: Technology & Human Values
 type: lecture
 details: 
     - How are stereotypes and problematic notions of people, places, and communities "baked in" to computing technologies, and what are some examples of this?
     - How can computing technologies exacerbate, reify, disrupt these ideas?
-draft: 1
+draft: 0
 group: 2
+slides:
+  - url: https://docs.google.com/presentation/d/1MJ0HleIVOtRmjIXP_qh7yxn4cUsxZ9StRGUocwxqeNo/edit?usp=sharing
+    title: Class Discussion
 due_date: 2021-01-21
 readings:
   - url: https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf
@@ -23,4 +26,4 @@ readings:
     notes: Only the introduction is available on Canvas. Please see syllabus for access options for the remaining chapters.
 ---
 
-TBD
+Introduction to STS; theories of technology and society.
