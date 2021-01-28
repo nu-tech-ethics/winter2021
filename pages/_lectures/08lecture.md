@@ -15,11 +15,17 @@ readings:
       author: Benjamin, Ruha
       source: "Race After Technology"
       date: 2019
+    - title: Nosedive, Season 3, Episode 1
+      author: Black Mirror
+      date: Oct. 21, 2016
+      source: Netflix
+      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
     - title: "Cameras in the Classroom: Facial Recognition Technology in Schools"
       url: http://stpp.fordschool.umich.edu/sites/stpp.fordschool.umich.edu/files/file-assets/cameras_in_the_classroom_full_report.pdf
       author: Galligan, Rosenfeld, Kleinman, & Parthasarathy
       source: "University of Michigan Technology Assessment Project"
       date: 2020
+      optional: 1
 ---
 
 TBD

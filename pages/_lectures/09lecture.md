@@ -13,11 +13,12 @@ readings:
       source: Logic Magazine
       author: Ahmed, Shazeda
       date: May, 2019
-    - title: Nosedive, Season 3, Episode 1
-      author: Black Mirror
-      date: Oct. 21, 2016
-      source: Netflix
-      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
+    - title: "Emotional Entanglement: China's emotion recognition market and its implications for human rights"
+      url: https://www.article19.org/wp-content/uploads/2021/01/ER-Tech-China-Report.pdf
+      source: Article 19
+      date: Jan, 2021
+      author: Marda, Vidushi & Ahmed, Shazeda
+
 ---
 
 TBD

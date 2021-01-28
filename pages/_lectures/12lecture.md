@@ -23,6 +23,12 @@ readings:
       title: "Through AI, we’re going to invent many new types of thinking"
       authors: Interview with Kevin Kelly (Co-founder of Wired Magazine)
       source: IBM Blog
+    - url: https://digitallearning.northwestern.edu/events/dialogue-dean-ruha-benjamin
+      title: "Dialogue with the Dean: Ruha Benjamin"
+      date: "Thu, February 18, 6:30-8PM"
+      source: "NU School of Communication"
+      author: Johnson, Patrick & Benjamin, Ruha
+      optional: 1
     - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224
       title: "Manufacturing an Artificial Intelligence Revolution" 
       authors: Katz, Yarden

@@ -10,14 +10,15 @@ details:
     - How do media representations both normalize and resist existing categorization and classification schemes?
     - How does one's position within a community shape which representations are accepted and which are problematized?
 readings:
+    - title: "Searching for black girls"
+      url: https://canvas.northwestern.edu/files/10469421/download?download_frd=1
+      source: "Algorithms of oppression: How search engines reinforce racism"
+      date: 2018
+      author: Noble, Safiya Umoja
     - title: The Long and Brutal History of Fake News
       source: Politico
       date: December 18, 2016
       url: https://www.politico.com/magazine/story/2016/12/fake-news-history-long-violent-214535
-    - title: "Searching for black girls"
-      source: "Algorithms of oppression: How search engines reinforce racism"
-      date: 2018
-      author: Noble, Safiya Umoja
     - url: http://ieas.unideb.hu/admin/file_9698.pdf
       title: "Ch2. The whites of their eyes: Racist ideologies and the media"
       source: "Gender, Race, & Class in Media"
