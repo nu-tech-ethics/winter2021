@@ -4,7 +4,12 @@ layout: default
 <article class="assignment">
 
     <p>
-        Due on {{ page.due_date  | date: "%a, %m/%d" }} @ 11:59PM.
+        Due on {{ page.due_date  | date: "%a, %m/%d" }}
+        {% if page.due_time %}
+            @ {{ page.due_time }}.
+        {% else %}
+            @ 11:59PM.
+        {% endif %}
         {{ page.points }} Points.
         {% if page.credits %}
             <br>Credit: {{page.credits}}

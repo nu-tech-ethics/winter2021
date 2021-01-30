@@ -3,6 +3,7 @@ layout: module
 num: 4
 title: Technology & Human Values
 type: lecture
+show_schedule: 1
 details: 
     - How are stereotypes and problematic notions of people, places, and communities "baked in" to computing technologies, and what are some examples of this?
     - How can computing technologies exacerbate, reify, disrupt these ideas?

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: assignment-two-column
 title: "Identity Journal 2"
 abbreviation: Journal 2
 type: identity
@@ -13,3 +13,5 @@ draft: 0
 2. Then answer *ONE* of the following questions:
    * What are your general reactions to this philosophical perspective? Feel free to discuss your thoughts on its merits, its limitations, or both.
    * Describe a time when the philosophical perspective you just selected was used to defend an idea or practice that you fundamentally disagree with.
+
+When you're done, paste your response from the Google Doc into the <a href="https://canvas.northwestern.edu/courses/130544/assignments/846197">Canvas Assignment</a>.

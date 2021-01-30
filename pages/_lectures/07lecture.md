@@ -19,6 +19,18 @@ readings:
       source: Politico
       date: December 18, 2016
       url: https://www.politico.com/magazine/story/2016/12/fake-news-history-long-violent-214535
+    - title: "AR, Augmenting the Reality of Bias in Tech"
+      url: https://canvas.northwestern.edu/files/10489972/download?download_frd=1
+      author: Lam, Jenny
+      source: Computing, Ethics, & Society Midterm Paper
+      date: October, 2020
+      optional: 1
+    - title: "Racial Capitalism in the Age of TikTok"
+      url: https://canvas.northwestern.edu/files/10489971/download?download_frd=1
+      author: Baum, Teá
+      date: October, 2020
+      source: Computing, Ethics, & Society Midterm Paper
+      optional: 1
     - url: http://ieas.unideb.hu/admin/file_9698.pdf
       title: "Ch2. The whites of their eyes: Racist ideologies and the media"
       source: "Gender, Race, & Class in Media"

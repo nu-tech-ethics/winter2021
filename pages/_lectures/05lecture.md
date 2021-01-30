@@ -1,9 +1,10 @@
 ---
-layout: lecture-two-column
+layout: module
 num: 5
 title: Race & Social Categories
 type: lecture
-draft: 1
+draft: 0
+show_schedule: 1
 group: 2
 due_date: 2021-01-26
 readings:
@@ -23,18 +24,9 @@ readings:
       date: Feb. 14, 2020 
       author: This American Life
       optional: 1
-    # - title: Chapter 1. Nature & Space
-    #   source: |
-    #     Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed 
-    #   date: 1998
-    #   author: Scott, James
-    #   optional: 1
-    # - title: Seeing like a Market
-    #   author: Fourcade, M. & Healy, K.
-    #   date: 2017
-    #   url: https://academic.oup.com/ser/article/15/1/9/2656165
-    #   source: Socio-Economic Review
-    #   optional: 1
+slides:
+    - title: "Race & Social Categories"
+      url: https://docs.google.com/presentation/d/1990yHTsnrxxGUPH8JaZY0VZB8EVcXDSRBrqotiYWYn8/edit?usp=sharing
 ---
 
-TBD
+Today we will be presenting our HW1 (Philosophy and the News) to one another, and considering some themes from Hannah-Jones's "Idea of America."

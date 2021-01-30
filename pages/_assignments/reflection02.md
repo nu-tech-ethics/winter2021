@@ -4,11 +4,12 @@ title: "Discussion 2"
 abbreviation: Discussion 2
 type: response
 due_date: 2021-01-21
+due_time: 2PM
 ordering: 1
 draft: 0
 ---
 
-On <a href="https://canvas.northwestern.edu/courses/130544/discussion_topics/883993">Canvas</a>, please respond to one of the following prompts:
+On <a href="https://canvas.northwestern.edu/courses/130544/discussion_topics/883993" target="_blank">Canvas</a>, please respond to one of the following prompts:
 
 ## Option 1: Winner
 

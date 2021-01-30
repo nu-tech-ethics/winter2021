@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: assignment-two-column
 title: "Identity Journal 1"
 abbreviation: Journal 1
 # external_url: https://canvas.northwestern.edu/courses/130544/assignments/844225
