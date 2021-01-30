@@ -61,6 +61,8 @@ Your participation grade will be based on attendance, and on evidence that you h
 We will use classroom discussion as a form of collaborative sense-making to understand, critique, and interrogate the required [course readings](../). Your timely and engaged attendance at every class is thus very important – both for you and for your classmates. Every student will need to participate in a thoughtful and productive manner in order for these discussions to be effective. Building on and reacting to other participants’ comments is encouraged, and should be done in a respectful tone even if you disagree. In order to participate fully, please do not let your laptop, phone, or other devices distract you or other participants. 
 
 #### Reading Responses
+> **Update:** As mentioned in class, you are allowed to skip one forum discussion post without a grade penalty.
+
 Students will also be required to submit **weekly reading responses**. Responses should be around 200-400 words in length (give or take). Sometimes, you will be given specific questions to answer. Other times you can write about themes, ideas, and questions that interested you. Your grade will be based on evidence that you did the readings. 
 
 Some approaches that you could take include (but are not limited to):
@@ -73,6 +75,8 @@ Some approaches that you could take include (but are not limited to):
 In addition to writing your own responses, you will respond to at least **two** of your classmates' posts per week. Both your writing response and your responses to your classmates should be submitted **before class (2PM) on the day it is due**. You may miss one reading response during the quarter without a grade penalty.
 
 #### Identity Journal
+> **Update:** As mentioned in class, you are allowed to skip one identity journal entry without a grade penalty.
+
 Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class. 
 
 {:.blockquote-no-margin}

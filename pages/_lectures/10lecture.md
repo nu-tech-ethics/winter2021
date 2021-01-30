@@ -7,7 +7,7 @@ draft: 1
 group: 2
 due_date: 2021-02-11
 readings:
-    - title: Chapter 3. Technological Benevolence
+    - title: Chapter 4. Technological Benevolence
       author: Benjamin, Ruha
       source: "Race After Technology"
       date: 2019
