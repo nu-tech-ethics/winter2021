@@ -1,32 +1,21 @@
 ---
-layout: lecture
+layout: lecture-two-column
 num: 9
-title: |
-    Surveillance: Part 2 (Guest Speaker)
+title: "Technological Solutionism"
 type: lecture
 draft: 1
 group: 2
 due_date: 2021-02-09
 readings:
-    - title: "The Messy Truth About Social Credit (China)"
-      url: https://logicmag.io/china/the-messy-truth-about-social-credit/
-      source: Logic Magazine
-      author: Ahmed, Shazeda
-      date: May, 2019
-    - title: "Emotional Entanglement: China's emotion recognition market and its implications for human rights"
-      url: https://www.article19.org/wp-content/uploads/2021/01/ER-Tech-China-Report.pdf
-      source: Article 19
-      date: Jan, 2021
-      author: Marda, Vidushi & Ahmed, Shazeda
-    - title: "Cameras in the Classroom: Facial Recognition Technology in Schools"
-      url: http://stpp.fordschool.umich.edu/sites/stpp.fordschool.umich.edu/files/file-assets/cameras_in_the_classroom_full_report.pdf
-      author: Galligan, Rosenfeld, Kleinman, & Parthasarathy
-      source: "University of Michigan Technology Assessment Project"
-      date: 2020
-      optional: 1
+    - title: Chapter 4. Technological Benevolence
+      author: Benjamin, Ruha
+      source: "Race After Technology"
+      date: 2019
+    - url: https://www.theatlantic.com/technology/archive/2013/03/toward-a-complex-realistic-and-moral-tech-criticism/273996/
+      title: Toward a Complex, Realistic, and Moral Tech Criticism
+      date: Mar. 13, 2013
 
 ---
 
-TBD
-
-
+Ideas to cover: 
+Ghandi's Ideas about technology: https://www.timesnownews.com/technology-science/article/mahatma-and-machines-understanding-gandhis-thoughts-on-modern-technology/498446#:~:text=Throughout%20his%20life%2C%20Gandhiji%20remained,take%20root%20in%20India%20too.

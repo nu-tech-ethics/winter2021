@@ -1,6 +1,6 @@
 ---
 layout: lecture-two-column
-num: 5
+num: 8
 title: |
     Surveillance: Part 1
 type: lecture

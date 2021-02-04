@@ -1,71 +1,37 @@
 ---
 layout: lecture
 num: 15
-title: Search Engines
-details: 
-   - Why are search engines so critical to the functioning of the internet? 
-   - Name some of the challenges 
+title: "AI: Part 2 (Lucy Vasserman, Google)"
+details:
+    - What does operationalizing these principles look like in practice?
 type: lecture
 draft: 1
-group: 3
 due_date: 2021-03-02
 readings:
-   - url: https://research.google/pubs/pub334/
-     title: The Anatomy of a Large-Scale Hypertextual Web Search Engine
-     source: Computer Networks, vol. 30, pp. 107-117
-     author: Sergey Brin & Lawrence Page
-     date: 1998
-     technical: 1
-   - url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.5518&rep=rep1&type=pdf
-     title: |
-        Through the Google Goggles: Sociopolitical Bias in Search Engine Design. Chapter 5
-     source: Senior Honors Thesis
-     author: Diaz, Alejandro M.
-     date: May, 2005
-     technical: 1
-   - url: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Gillespie_2017_Algorithmically-recognizable.pdf
-     title: |
-        Algorithmically recognizable: Santorum's Google problem, and Google's Santorum problem
-     date: July 2016
-     source: Information, Communication & Society
-     author: Gillispie, T
-   - url: https://ieeexplore.ieee.org/document/816269
-     title: |
-        Defining the Web: the politics of search engines
-     date: January 2000
-     source: IEEE Computer, Vol. 33, Issue 1.
-     author: L. Introna; H. Nissenbaum
-     optional: 1
-   - url: https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.20404
-     title: |
-        Web links and search engine ranking: The case of Google and the query "jew"
-     author: Bar‐Ilan, J.
-     source: Journal of the American Society for Information Science and Technology, 57(12), 1581-1589
-     date: August 2006
-     optional: 1
-   - url: https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/the-ethics-and-politics-of-search-engines/
-     title: The Ethics and Politics of Search Engines
-     date: February 27, 2006
-     source: Panel Discussion sponsored by the Santa Clara University Center for Science, Technology, and Society
-     author: Leigh Starr, Terry Winograd, Geoffrey Bowker, Peter Norvig
-     optional: 1
-   - url: https://ieeexplore.ieee.org/document/816269 
-     title: "Defining the Web: the politics of search engines."
-     authors: Introna & Nissenbaum
-     date: Jan 2000 
-     source: Computer v33(1)
+    - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482
+      title: "Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI"
+      date: Jan 2020
+      authors:  Fjeld, Jessica; Achten, Nele; Hilligoss, Hannah; Nagy, Adam; Srikumar, Madhulika
+      source: Berkman Klein Center Research Publication
+    - url: http://wilkins.law.harvard.edu/misc/PrincipledAI_FinalGraphic.jpg
+      title: "Principled AI: Graphic"
+      authors: Fjeld et al.
+      date: Jan 2020
+      optional: 1
+    - url: https://medium.com/berkman-klein-center/q-a-jessica-fjeld-on-a-new-berkman-klein-study-of-ai-ethical-principles-d0c18d48b433
+      title: "Q&A: Jessica Fjeld on a New Berkman Klein Study of AI Ethical Principles"
+      date: Jan 2020
+      optional: 1
 ---
 
-Today we are going to discuss how page rank works by tracing the algorithm
+### Themes Across AI & Ethics Documents
+(Fjeld et al.)
 
-
-Other notes: 
-* http://ianrogers.uk/google-page-rank/
-* http://ed.ilogues.com/projects/2015/03/22/pagerank-visualization
-* http://faculty.chemeketa.edu/ascholer/cs160/WebApps/PageRank/
-* (this one is good) https://searchengineland.com/what-is-google-pagerank-a-guide-for-searchers-webmasters-11068
-* https://github.com/jayesh15111988/WebPageDependencyVisualization
-* https://github.com/Ayoush/PageRank
-* This is awesome: 
-    * https://www.py4e.com/lessons/dataviz
-    * https://www.youtube.com/watch?v=9gtLOS87ZPs
+| **Fairness and Non-discrimination** | 100% | With concerns about AI bias already impacting individuals globally, Fairness and Non-discrimination principles call for AI systems to be designed and used to maximize fairness and promote inclusivity. |
+| **Privacy** | 97% | Principles under this theme stand for the idea that AI systems should respect individuals’ privacy, both in the use of data for the development of technological systems and by providing impacted people with agency over their data and decisions made with it. |
+| **Accountability** | 97% | This theme includes principles concerning the importance of mechanisms to ensure that accountability for the impacts of AI systems is appropriately distributed, and that adequate remedies are provided. |
+| **Transparency and Explainability** | 94% | Principles under this theme articulate requirements that AI systems be designed and implemented to allow for oversight, including through translation of their operations into intelligible outputs and the provision of information about where, when, and how they are being used. |
+| **Safety and Security** | 81% | These principles express requirements that AI systems be safe, performing as intended, and also secure, resistant to being compromised by unauthorized parties. |
+| **Professional Responsibility** | 78% |These principles recognize the vital role that individuals involved in the development and deployment of AI systems play in the systems’ impacts, and call on their professionalism and integrity in ensuring that the appropriate stakeholders are consulted and long-term effects are planned for. | 
+| **Human Control of Technology** |  69% | The principles under this theme require that important decisions remain subject to human review. |
+| **Promotion of Human Values** | 69% | Finally, Human Values principles state that the ends to which AI is devoted, and the means by which it is implemented, should correspond with our core values and generally promote humanity’s well-being. |

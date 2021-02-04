@@ -1,10 +1,13 @@
 ---
 layout: module
-num: 8
+num: 7
 title: "Media Representation"
 type: lecture
-draft: 1
+draft: 0
 group: 2
+slides: 
+    - title: "Representation, the Media, & Search"
+      url: https://docs.google.com/presentation/d/1CFdhIuNsjk2GoVhWUCDOoeTbMV2vdlXhxWUUk8XWeWk/edit?usp=sharing
 due_date: 2021-02-02
 details: 
     - How do media representations both normalize and resist existing categorization and classification schemes?
