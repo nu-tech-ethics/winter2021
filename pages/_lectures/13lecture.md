@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 14
+num: 13
 title: Machine Learning
 type: lecture
 draft: 1

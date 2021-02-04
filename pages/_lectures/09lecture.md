@@ -5,6 +5,7 @@ title: "Technological Solutionism"
 type: lecture
 draft: 1
 group: 2
+show_schedule: 1
 due_date: 2021-02-09
 readings:
     - title: Chapter 4. Technological Benevolence

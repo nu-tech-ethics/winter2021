@@ -4,6 +4,7 @@ num: 8
 title: |
     Surveillance: Part 1
 type: lecture
+show_schedule: 1
 details: 
     - What are some of the consequences of the widespread use of tracking and surveilance techologies?
     - What are some of the ways in which vulnerable groups are differentially impacted?

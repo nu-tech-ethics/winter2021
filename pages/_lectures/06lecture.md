@@ -24,6 +24,17 @@ readings:
       date: 1998
       source: MIT Press
       optional: 1
+    - url: https://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html
+      title: My Life as an Undocumented Immigrant
+      date: June, 2011
+      author: Vargas, Jose Antonio
+      optional: 1
+    - title: The acquisition of a child by a learning disability
+      author: McDermott, Ray
+      source: |
+        Understanding Practice: Perspectives on Activity and Context
+      date: 1993
+      optional: 1
 slides:
     - title: "Categories & Classification Systems"
       url: https://docs.google.com/presentation/d/1AJNSNr9faTFybc-ULrdk1DS4bpmsho6uQPhBTusRnzs/edit?usp=sharing
