@@ -8,5 +8,5 @@ ordering: 1
 draft: 1
 ---
 
-TBD
+Challenge or agree with Morozov.
 
