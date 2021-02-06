@@ -14,7 +14,19 @@ readings:
       date: 2019
     - url: https://www.theatlantic.com/technology/archive/2013/03/toward-a-complex-realistic-and-moral-tech-criticism/273996/
       title: Toward a Complex, Realistic, and Moral Tech Criticism
-      date: Mar. 13, 2013
+      date: March, 2013
+      author: Madrigal, Alexis
+    - url: https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt
+      title: "The tech ‘solutions’ for coronavirus take the surveillance state to the next level"
+      date: April, 2020
+      author: Morozov, Evgeny 
+      optional: 1
+    - url: https://canvas.northwestern.edu/files/10555561/download?download_frd=1
+      title: "Why the revolution will not be Tweeted"
+      date: September, 2010
+      author: Gladwell, Malcolm
+      source: The New Yorker
+      optional: 1
 
 ---
 
