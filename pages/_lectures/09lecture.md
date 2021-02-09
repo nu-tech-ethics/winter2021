@@ -1,12 +1,15 @@
 ---
 layout: lecture-two-column
 num: 9
-title: "Technological Solutionism"
+title: "Technological Solutionism / Benevolence"
 type: lecture
-draft: 1
+draft: 0
 group: 2
 show_schedule: 1
 due_date: 2021-02-09
+slides:
+    - title: Technological Solutionism / Benevolence
+      url: https://docs.google.com/presentation/d/1BIZ07ljPGulD2ETMyV-xrsy27MznEAwjKVHnUg1kHuo/edit?usp=sharing
 readings:
     - title: Chapter 4. Technological Benevolence
       author: Benjamin, Ruha
@@ -30,5 +33,5 @@ readings:
 
 ---
 
-Ideas to cover: 
-Ghandi's Ideas about technology: https://www.timesnownews.com/technology-science/article/mahatma-and-machines-understanding-gandhis-thoughts-on-modern-technology/498446#:~:text=Throughout%20his%20life%2C%20Gandhiji%20remained,take%20root%20in%20India%20too.
+<!-- Ideas to cover: 
+Ghandi's Ideas about technology: https://www.timesnownews.com/technology-science/article/mahatma-and-machines-understanding-gandhis-thoughts-on-modern-technology/498446#:~:text=Throughout%20his%20life%2C%20Gandhiji%20remained,take%20root%20in%20India%20too. -->
