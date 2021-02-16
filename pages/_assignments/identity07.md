@@ -1,5 +1,5 @@
 ---
-layout: assignment
+layout: assignment-two-column
 title: "Identity Journal 7"
 abbreviation: Journal 7
 type: identity
