@@ -1,9 +1,9 @@
 ---
-layout: lecture
+layout: module
 num: 12 
 title: "AI: Part 1"
 type: lecture
-draft: 1
+draft: 0
 group: 3
 due_date: 2021-02-18
 details:
@@ -34,13 +34,16 @@ readings:
       authors: Katz, Yarden
       date: 2017
       optional: 1
-    - url: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-      authors: Yee, Stephanie and Chu, Tony
-      title: "A Visual Introduction to Machine Learning, Part 1" 
-      optional: 1
+slides:
+    - url: https://docs.google.com/presentation/d/1ZqCC92DwDe9FEt2Ds-a-CThlfmpn-RmK2EF-VaYsQS8/edit?usp=sharing
+      title: Lecture Slides
+    - url: https://docs.google.com/spreadsheets/d/1R_P9q0-FVDVvK5Ulgjm55kdVmlij5u04tWcwbVHKRdI/edit#gid=0
+      title: Spreadsheet Brainstorm
 ---
 
-Some videos to demystify the mechanism:
+AI: Myths, possibilities, and limitations.
+
+<!-- Some videos to demystify the mechanism:
 
 * https://www.youtube.com/watch?v=bfmFfD2RIcg
-* https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf
+* https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf -->
