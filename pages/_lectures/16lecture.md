@@ -12,7 +12,7 @@ details:
     - How are the needs / wants / values of of these stakeholders in tension with one another?
 readings:
     - title: "It's Not Just the Content, It's the Business Model: Democracy’s Online Speech Challenge"
-      url: ""
+      url: https://www.newamerica.org/oti/reports/its-not-just-content-its-business-model/
       authors: Maréchal, Nathalie & Roberts Biddle, Ellery
       source: Open Technology Institute
       date: 2020
