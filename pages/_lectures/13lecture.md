@@ -9,7 +9,7 @@ draft: 1
 due_date: 2021-02-23
 readings:
     - url: https://www.wmm.com/virtual-screening-room/coded-bias-watch-page-northwestern-univ/
-      title: Decoding Bias
+      title: Coded Bias
       date: 2020
       author: Shalini Kantayya
       notes: "Movie password: NWUVIEWCB"
