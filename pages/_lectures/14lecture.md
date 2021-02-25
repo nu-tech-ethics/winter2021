@@ -18,10 +18,12 @@ readings:
      author: Jonathan Zittrain
      date: 2020
    - title: Chapter 1. All platforms moderate
+     url: https://canvas.northwestern.edu/files/10737463/download?download_frd=1
      source: "Custodians of the Internet: Platforms, content moderation, and the hidden decisions that shape social media"
      author: Gillespie, Tarleton
      date: 2018
    - title: "The New Governors: The People, Rules, and Processes Governing Free Speech"
+     url: https://harvardlawreview.org/2018/04/the-new-governors-the-people-rules-and-processes-governing-online-speech/
      source: Harvard Law Review, 131
      author: Klonick, Kate
      date: 2018
