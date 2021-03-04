@@ -1,6 +1,7 @@
 ---
 layout: lecture
 num: 15
+show_outline: 1
 title: "AI: Part 2 (Lucy Vasserman, Google)"
 details:
     - What does operationalizing these principles look like in practice?

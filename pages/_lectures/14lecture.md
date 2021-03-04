@@ -1,11 +1,14 @@
 ---
-layout: lecture
+layout: module
 num: 14
 title: |
     Platforms: Content Moderation
 type: lecture
-draft: 1
+draft: 0
 group: 3
+slides: 
+    - title: "Content Moderation"
+      url: https://docs.google.com/presentation/d/1kO3zgHjGsr5iL0-bfkrs2e-ugdwCtZ_tjxSZl3o56mY/edit?usp=sharing
 due_date: 2021-02-25
 details: 
     - What are some considerations that go into determining whether user-generated content is acceptable on a platform?
@@ -30,8 +33,8 @@ readings:
      optional: 1
 ---
 
-* Who are the stakeholders (social media platforms)?
+<!-- * Who are the stakeholders (social media platforms)?
 * What values are in tension on SM?
 * Labor platforms
 * Platforms for buying and selling
-* Tracking platforms (third-party cookies) and data aggregation
+* Tracking platforms (third-party cookies) and data aggregation -->
