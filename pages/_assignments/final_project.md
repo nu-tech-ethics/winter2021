@@ -1,9 +1,9 @@
 ---
 layout: assignment-two-column
-title: Final Project
-abbreviation: Final Project
-type: project
-due_date: 2021-03-17
+title: Speculative Fiction or Public Education Piece
+abbreviation: HW 3
+type: homework
+due_date: 2021-03-19
 ordering: 0 
 draft: 0
 ---
