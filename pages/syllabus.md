@@ -25,6 +25,9 @@ To accomplish this, we will engage in critical reading and synthesizing across a
 
 The course is open to all students. For CS majors and minors, the course aims to help students to consider and grapple with ethical dimensions of their work, in order to inform a more critical technical practice. For students pursuing non-computing disciplines, the course aims to provide a solid foundation for thinking about the possibilities, risks, and impacts of computer-mediated infrastructures on society.
 
+## Acknowledgements
+This course was originally developed in collaboration with Dr. Sepehr Vakil and Natalie Melo.
+
 ## Course Format
 The course format will consist of:
 1. Readings and in-class discussions of current and enduring socio-technical dilemmas, and how they relate to applications of AI, Big Data, and the Internet.
